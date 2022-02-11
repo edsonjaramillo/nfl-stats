@@ -1,0 +1,226 @@
+[
+  {
+    "Team":"49ers",
+    "INT":10,
+    "INT TD":0,
+    "INT Yds":96,
+    "Lng":"39"
+  },
+  {
+    "Team":"Bears",
+    "INT":8,
+    "INT TD":1,
+    "INT Yds":73,
+    "Lng":"25"
+  },
+  {
+    "Team":"Bengals",
+    "INT":17,
+    "INT TD":0,
+    "INT Yds":138,
+    "Lng":"47"
+  },
+  {
+    "Team":"Bills",
+    "INT":12,
+    "INT TD":1,
+    "INT Yds":207,
+    "Lng":"49"
+  },
+  {
+    "Team":"Broncos",
+    "INT":14,
+    "INT TD":3,
+    "INT Yds":367,
+    "Lng":"51T"
+  },
+  {
+    "Team":"Browns",
+    "INT":10,
+    "INT TD":1,
+    "INT Yds":146,
+    "Lng":"67"
+  },
+  {
+    "Team":"Buccaneers",
+    "INT":17,
+    "INT TD":4,
+    "INT Yds":234,
+    "Lng":"53"
+  },
+  {
+    "Team":"Cardinals",
+    "INT":14,
+    "INT TD":2,
+    "INT Yds":263,
+    "Lng":"66T"
+  },
+  {
+    "Team":"Chargers",
+    "INT":18,
+    "INT TD":3,
+    "INT Yds":292,
+    "Lng":"90T"
+  },
+  {
+    "Team":"Chiefs",
+    "INT":18,
+    "INT TD":4,
+    "INT Yds":271,
+    "Lng":"55T"
+  },
+  {
+    "Team":"Colts",
+    "INT":8,
+    "INT TD":0,
+    "INT Yds":100,
+    "Lng":"56"
+  },
+  {
+    "Team":"Cowboys",
+    "INT":9,
+    "INT TD":0,
+    "INT Yds":75,
+    "Lng":"27"
+  },
+  {
+    "Team":"Dolphins",
+    "INT":16,
+    "INT TD":1,
+    "INT Yds":186,
+    "Lng":"60T"
+  },
+  {
+    "Team":"Eagles",
+    "INT":16,
+    "INT TD":3,
+    "INT Yds":207,
+    "Lng":"64T"
+  },
+  {
+    "Team":"Falcons",
+    "INT":12,
+    "INT TD":3,
+    "INT Yds":279,
+    "Lng":"90T"
+  },
+  {
+    "Team":"Giants",
+    "INT":17,
+    "INT TD":1,
+    "INT Yds":174,
+    "Lng":"44T"
+  },
+  {
+    "Team":"Jaguars",
+    "INT":7,
+    "INT TD":1,
+    "INT Yds":104,
+    "Lng":"35"
+  },
+  {
+    "Team":"Jets",
+    "INT":8,
+    "INT TD":0,
+    "INT Yds":141,
+    "Lng":"51"
+  },
+  {
+    "Team":"Lions",
+    "INT":10,
+    "INT TD":1,
+    "INT Yds":96,
+    "Lng":"39T"
+  },
+  {
+    "Team":"Packers",
+    "INT":17,
+    "INT TD":0,
+    "INT Yds":209,
+    "Lng":"44"
+  },
+  {
+    "Team":"Panthers",
+    "INT":17,
+    "INT TD":1,
+    "INT Yds":204,
+    "Lng":"37"
+  },
+  {
+    "Team":"Patriots",
+    "INT":13,
+    "INT TD":0,
+    "INT Yds":109,
+    "Lng":"46"
+  },
+  {
+    "Team":"Raiders",
+    "INT":16,
+    "INT TD":1,
+    "INT Yds":147,
+    "Lng":"40"
+  },
+  {
+    "Team":"Rams",
+    "INT":10,
+    "INT TD":0,
+    "INT Yds":71,
+    "Lng":"29"
+  },
+  {
+    "Team":"Ravens",
+    "INT":18,
+    "INT TD":0,
+    "INT Yds":178,
+    "Lng":"53"
+  },
+  {
+    "Team":"Redskins",
+    "INT":13,
+    "INT TD":0,
+    "INT Yds":186,
+    "Lng":"79"
+  },
+  {
+    "Team":"Saints",
+    "INT":9,
+    "INT TD":0,
+    "INT Yds":109,
+    "Lng":"30"
+  },
+  {
+    "Team":"Seahawks",
+    "INT":11,
+    "INT TD":0,
+    "INT Yds":72,
+    "Lng":"31"
+  },
+  {
+    "Team":"Steelers",
+    "INT":13,
+    "INT TD":0,
+    "INT Yds":133,
+    "Lng":"58"
+  },
+  {
+    "Team":"Texans",
+    "INT":11,
+    "INT TD":1,
+    "INT Yds":132,
+    "Lng":"42T"
+  },
+  {
+    "Team":"Titans",
+    "INT":12,
+    "INT TD":0,
+    "INT Yds":68,
+    "Lng":"33"
+  },
+  {
+    "Team":"Vikings",
+    "INT":14,
+    "INT TD":2,
+    "INT Yds":253,
+    "Lng":"100T"
+  }
+]
