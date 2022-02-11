@@ -1,0 +1,10264 @@
+[
+  {
+    "Player":"Avery Williamson",
+    "Comb":170,
+    "Asst":61,
+    "Solo":98,
+    "Sck":1.0
+  },
+  {
+    "Player":"Zach Cunningham",
+    "Comb":164,
+    "Asst":58,
+    "Solo":93,
+    "Sck":3.0
+  },
+  {
+    "Player":"Jaylon Smith",
+    "Comb":154,
+    "Asst":65,
+    "Solo":87,
+    "Sck":1.5
+  },
+  {
+    "Player":"Blake Martinez",
+    "Comb":151,
+    "Asst":65,
+    "Solo":75,
+    "Sck":3.0
+  },
+  {
+    "Player":"Joe Schobert",
+    "Comb":141,
+    "Asst":57,
+    "Solo":75,
+    "Sck":2.5
+  },
+  {
+    "Player":"Devin White",
+    "Comb":140,
+    "Asst":43,
+    "Solo":90,
+    "Sck":9.0
+  },
+  {
+    "Player":"Roquan Smith",
+    "Comb":139,
+    "Asst":41,
+    "Solo":96,
+    "Sck":4.0
+  },
+  {
+    "Player":"Bobby Wagner",
+    "Comb":138,
+    "Asst":57,
+    "Solo":79,
+    "Sck":3.0
+  },
+  {
+    "Player":"Neville Hewitt",
+    "Comb":134,
+    "Asst":43,
+    "Solo":77,
+    "Sck":2.0
+  },
+  {
+    "Player":"Darius Leonard",
+    "Comb":132,
+    "Asst":46,
+    "Solo":76,
+    "Sck":3.0
+  },
+  {
+    "Player":"Fred Warner",
+    "Comb":125,
+    "Asst":46,
+    "Solo":72,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tyrell Adams",
+    "Comb":125,
+    "Asst":49,
+    "Solo":65,
+    "Sck":2.0
+  },
+  {
+    "Player":"Jordan Poyer",
+    "Comb":124,
+    "Asst":33,
+    "Solo":78,
+    "Sck":2.0
+  },
+  {
+    "Player":"A.J. Johnson",
+    "Comb":124,
+    "Asst":52,
+    "Solo":68,
+    "Sck":1.0
+  },
+  {
+    "Player":"Eric Wilson",
+    "Comb":122,
+    "Asst":60,
+    "Solo":58,
+    "Sck":3.0
+  },
+  {
+    "Player":"Alex Singleton",
+    "Comb":120,
+    "Asst":45,
+    "Solo":69,
+    "Sck":2.0
+  },
+  {
+    "Player":"Tremaine Edmunds",
+    "Comb":119,
+    "Asst":42,
+    "Solo":73,
+    "Sck":2.0
+  },
+  {
+    "Player":"Demario Davis",
+    "Comb":119,
+    "Asst":46,
+    "Solo":73,
+    "Sck":4.0
+  },
+  {
+    "Player":"Myles Jack",
+    "Comb":118,
+    "Asst":46,
+    "Solo":69,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jordan Hicks",
+    "Comb":118,
+    "Asst":40,
+    "Solo":70,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jon Bostic",
+    "Comb":118,
+    "Asst":57,
+    "Solo":59,
+    "Sck":3.0
+  },
+  {
+    "Player":"Budda Baker",
+    "Comb":118,
+    "Asst":28,
+    "Solo":84,
+    "Sck":2.0
+  },
+  {
+    "Player":"Foye Oluokun",
+    "Comb":117,
+    "Asst":39,
+    "Solo":77,
+    "Sck":3.0
+  },
+  {
+    "Player":"Lavonte David",
+    "Comb":117,
+    "Asst":35,
+    "Solo":78,
+    "Sck":1.5
+  },
+  {
+    "Player":"Jeremy Chinn",
+    "Comb":117,
+    "Asst":49,
+    "Solo":67,
+    "Sck":1.0
+  },
+  {
+    "Player":"Shaq Thompson",
+    "Comb":114,
+    "Asst":50,
+    "Solo":63,
+    "Sck":0.0
+  },
+  {
+    "Player":"Vonn Bell",
+    "Comb":114,
+    "Asst":47,
+    "Solo":64,
+    "Sck":0.0
+  },
+  {
+    "Player":"Danny Trevathan",
+    "Comb":113,
+    "Asst":46,
+    "Solo":63,
+    "Sck":1.0
+  },
+  {
+    "Player":"Josey Jewell",
+    "Comb":113,
+    "Asst":46,
+    "Solo":64,
+    "Sck":2.0
+  },
+  {
+    "Player":"Jerome Baker",
+    "Comb":112,
+    "Asst":42,
+    "Solo":64,
+    "Sck":7.0
+  },
+  {
+    "Player":"Kevin Byard",
+    "Comb":111,
+    "Asst":32,
+    "Solo":69,
+    "Sck":0.0
+  },
+  {
+    "Player":"Adrian Phillips",
+    "Comb":109,
+    "Asst":33,
+    "Solo":64,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jessie Bates",
+    "Comb":109,
+    "Asst":31,
+    "Solo":77,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kenneth Murray",
+    "Comb":107,
+    "Asst":39,
+    "Solo":62,
+    "Sck":1.0
+  },
+  {
+    "Player":"Eric Kendricks",
+    "Comb":107,
+    "Asst":38,
+    "Solo":59,
+    "Sck":0.0
+  },
+  {
+    "Player":"Patrick Queen",
+    "Comb":106,
+    "Asst":40,
+    "Solo":62,
+    "Sck":3.0
+  },
+  {
+    "Player":"Deion Jones",
+    "Comb":106,
+    "Asst":33,
+    "Solo":67,
+    "Sck":4.5
+  },
+  {
+    "Player":"John Johnson",
+    "Comb":105,
+    "Asst":32,
+    "Solo":69,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Harris",
+    "Comb":104,
+    "Asst":46,
+    "Solo":55,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamie Collins",
+    "Comb":101,
+    "Asst":46,
+    "Solo":53,
+    "Sck":1.0
+  },
+  {
+    "Player":"Keanu Neal",
+    "Comb":100,
+    "Asst":24,
+    "Solo":73,
+    "Sck":1.0
+  },
+  {
+    "Player":"Malcolm Butler",
+    "Comb":100,
+    "Asst":14,
+    "Solo":80,
+    "Sck":0.0
+  },
+  {
+    "Player":"De'Vondre Campbell",
+    "Comb":99,
+    "Asst":30,
+    "Solo":61,
+    "Sck":2.0
+  },
+  {
+    "Player":"Josh Bynes",
+    "Comb":99,
+    "Asst":46,
+    "Solo":48,
+    "Sck":1.0
+  },
+  {
+    "Player":"Justin Simmons",
+    "Comb":96,
+    "Asst":19,
+    "Solo":75,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rashaan Evans",
+    "Comb":96,
+    "Asst":36,
+    "Solo":51,
+    "Sck":0.5
+  },
+  {
+    "Player":"Chuck Clark",
+    "Comb":96,
+    "Asst":39,
+    "Solo":52,
+    "Sck":1.5
+  },
+  {
+    "Player":"Tre Boston",
+    "Comb":95,
+    "Asst":35,
+    "Solo":58,
+    "Sck":1.0
+  },
+  {
+    "Player":"Antoine Winfield Jr.",
+    "Comb":94,
+    "Asst":30,
+    "Solo":62,
+    "Sck":3.0
+  },
+  {
+    "Player":"Logan Ryan",
+    "Comb":94,
+    "Asst":26,
+    "Solo":63,
+    "Sck":1.0
+  },
+  {
+    "Player":"Taron Johnson",
+    "Comb":94,
+    "Asst":24,
+    "Solo":62,
+    "Sck":1.0
+  },
+  {
+    "Player":"Anthony Walker",
+    "Comb":92,
+    "Asst":27,
+    "Solo":53,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daniel Sorensen",
+    "Comb":91,
+    "Asst":23,
+    "Solo":66,
+    "Sck":0.0
+  },
+  {
+    "Player":"Eric Rowe",
+    "Comb":91,
+    "Asst":25,
+    "Solo":62,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jabrill Peppers",
+    "Comb":91,
+    "Asst":34,
+    "Solo":55,
+    "Sck":2.5
+  },
+  {
+    "Player":"Malcolm Jenkins",
+    "Comb":91,
+    "Asst":22,
+    "Solo":66,
+    "Sck":2.5
+  },
+  {
+    "Player":"B.J. Goodson",
+    "Comb":91,
+    "Asst":32,
+    "Solo":55,
+    "Sck":0.5
+  },
+  {
+    "Player":"Ja'Whaun Bentley",
+    "Comb":91,
+    "Asst":41,
+    "Solo":40,
+    "Sck":1.5
+  },
+  {
+    "Player":"Harrison Smith",
+    "Comb":89,
+    "Asst":35,
+    "Solo":52,
+    "Sck":0.5
+  },
+  {
+    "Player":"Germaine Pratt",
+    "Comb":89,
+    "Asst":34,
+    "Solo":52,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kareem Jackson",
+    "Comb":89,
+    "Asst":22,
+    "Solo":67,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Maye",
+    "Comb":88,
+    "Asst":36,
+    "Solo":46,
+    "Sck":2.0
+  },
+  {
+    "Player":"Kamren Curl",
+    "Comb":88,
+    "Asst":25,
+    "Solo":59,
+    "Sck":2.0
+  },
+  {
+    "Player":"Tracy Walker III",
+    "Comb":87,
+    "Asst":23,
+    "Solo":60,
+    "Sck":1.0
+  },
+  {
+    "Player":"Kwon Alexander",
+    "Comb":87,
+    "Asst":26,
+    "Solo":57,
+    "Sck":2.0
+  },
+  {
+    "Player":"K.J. Wright",
+    "Comb":86,
+    "Asst":26,
+    "Solo":56,
+    "Sck":2.0
+  },
+  {
+    "Player":"Dre Greenlaw",
+    "Comb":86,
+    "Asst":25,
+    "Solo":56,
+    "Sck":1.0
+  },
+  {
+    "Player":"Johnathan Abram",
+    "Comb":86,
+    "Asst":26,
+    "Solo":59,
+    "Sck":0.0
+  },
+  {
+    "Player":"Khari Willis",
+    "Comb":85,
+    "Asst":20,
+    "Solo":53,
+    "Sck":2.0
+  },
+  {
+    "Player":"Rayshawn Jenkins",
+    "Comb":84,
+    "Asst":26,
+    "Solo":57,
+    "Sck":1.0
+  },
+  {
+    "Player":"Kenny Vaccaro",
+    "Comb":83,
+    "Asst":21,
+    "Solo":51,
+    "Sck":1.0
+  },
+  {
+    "Player":"Justin Reid",
+    "Comb":83,
+    "Asst":21,
+    "Solo":54,
+    "Sck":2.0
+  },
+  {
+    "Player":"Josh Jones",
+    "Comb":83,
+    "Asst":24,
+    "Solo":56,
+    "Sck":0.0
+  },
+  {
+    "Player":"Adrian Amos",
+    "Comb":83,
+    "Asst":17,
+    "Solo":64,
+    "Sck":2.0
+  },
+  {
+    "Player":"Jamal Adams",
+    "Comb":83,
+    "Asst":24,
+    "Solo":57,
+    "Sck":9.5
+  },
+  {
+    "Player":"Cory Littleton",
+    "Comb":82,
+    "Asst":26,
+    "Solo":49,
+    "Sck":0.0
+  },
+  {
+    "Player":"Eddie Jackson",
+    "Comb":82,
+    "Asst":19,
+    "Solo":62,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marlon Humphrey",
+    "Comb":82,
+    "Asst":12,
+    "Solo":68,
+    "Sck":2.5
+  },
+  {
+    "Player":"Troy Reeder",
+    "Comb":81,
+    "Asst":28,
+    "Solo":48,
+    "Sck":3.0
+  },
+  {
+    "Player":"Nick Kwiatkoski",
+    "Comb":81,
+    "Asst":28,
+    "Solo":49,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jeff Gladney",
+    "Comb":81,
+    "Asst":18,
+    "Solo":57,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kenny Moore II",
+    "Comb":80,
+    "Asst":12,
+    "Solo":64,
+    "Sck":2.0
+  },
+  {
+    "Player":"DeShon Elliott",
+    "Comb":80,
+    "Asst":29,
+    "Solo":49,
+    "Sck":2.5
+  },
+  {
+    "Player":"Krys Barnes",
+    "Comb":80,
+    "Asst":32,
+    "Solo":47,
+    "Sck":1.0
+  },
+  {
+    "Player":"Minkah Fitzpatrick",
+    "Comb":79,
+    "Asst":19,
+    "Solo":55,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nicholas Morrow",
+    "Comb":78,
+    "Asst":16,
+    "Solo":57,
+    "Sck":3.0
+  },
+  {
+    "Player":"Anthony Hitchens",
+    "Comb":78,
+    "Asst":34,
+    "Solo":42,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyzir White",
+    "Comb":77,
+    "Asst":27,
+    "Solo":45,
+    "Sck":0.5
+  },
+  {
+    "Player":"Micah Kiser",
+    "Comb":77,
+    "Asst":33,
+    "Solo":44,
+    "Sck":0.0
+  },
+  {
+    "Player":"Christian Kirksey",
+    "Comb":77,
+    "Asst":31,
+    "Solo":42,
+    "Sck":2.0
+  },
+  {
+    "Player":"Troy Hill",
+    "Comb":77,
+    "Asst":22,
+    "Solo":52,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lonnie Johnson",
+    "Comb":76,
+    "Asst":20,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tre Herndon",
+    "Comb":76,
+    "Asst":12,
+    "Solo":59,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jayon Brown",
+    "Comb":76,
+    "Asst":31,
+    "Solo":41,
+    "Sck":1.0
+  },
+  {
+    "Player":"Darnell Savage",
+    "Comb":75,
+    "Asst":19,
+    "Solo":52,
+    "Sck":1.0
+  },
+  {
+    "Player":"A.J. Klein",
+    "Comb":75,
+    "Asst":22,
+    "Solo":43,
+    "Sck":5.0
+  },
+  {
+    "Player":"Jordan Whitehead",
+    "Comb":74,
+    "Asst":21,
+    "Solo":51,
+    "Sck":2.0
+  },
+  {
+    "Player":"A.J. Terrell",
+    "Comb":74,
+    "Asst":13,
+    "Solo":58,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jalen Mills",
+    "Comb":74,
+    "Asst":15,
+    "Solo":53,
+    "Sck":1.5
+  },
+  {
+    "Player":"Jonathan Jones",
+    "Comb":74,
+    "Asst":14,
+    "Solo":54,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damien Wilson",
+    "Comb":73,
+    "Asst":27,
+    "Solo":42,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jimmie Ward",
+    "Comb":73,
+    "Asst":28,
+    "Solo":45,
+    "Sck":0.0
+  },
+  {
+    "Player":"Duron Harmon",
+    "Comb":73,
+    "Asst":19,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Xavier Woods",
+    "Comb":72,
+    "Asst":24,
+    "Solo":43,
+    "Sck":0.0
+  },
+  {
+    "Player":"Malcolm Smith",
+    "Comb":72,
+    "Asst":23,
+    "Solo":44,
+    "Sck":1.0
+  },
+  {
+    "Player":"Bobby Okereke",
+    "Comb":72,
+    "Asst":15,
+    "Solo":54,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cole Holcomb",
+    "Comb":72,
+    "Asst":27,
+    "Solo":43,
+    "Sck":2.5
+  },
+  {
+    "Player":"Vernon Hargreaves III",
+    "Comb":72,
+    "Asst":11,
+    "Solo":57,
+    "Sck":0.0
+  },
+  {
+    "Player":"Donovan Wilson",
+    "Comb":71,
+    "Asst":23,
+    "Solo":48,
+    "Sck":3.5
+  },
+  {
+    "Player":"Eric Murray",
+    "Comb":71,
+    "Asst":24,
+    "Solo":44,
+    "Sck":2.0
+  },
+  {
+    "Player":"Vince Williams",
+    "Comb":70,
+    "Asst":23,
+    "Solo":38,
+    "Sck":3.0
+  },
+  {
+    "Player":"Isaiah Oliver",
+    "Comb":70,
+    "Asst":19,
+    "Solo":49,
+    "Sck":1.0
+  },
+  {
+    "Player":"Micah Hyde",
+    "Comb":70,
+    "Asst":22,
+    "Solo":45,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.J. Edwards",
+    "Comb":70,
+    "Asst":33,
+    "Solo":35,
+    "Sck":2.0
+  },
+  {
+    "Player":"Sean Murphy-Bunting",
+    "Comb":70,
+    "Asst":17,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jarrod Wilson",
+    "Comb":69,
+    "Asst":24,
+    "Solo":40,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Van Noy",
+    "Comb":69,
+    "Asst":23,
+    "Solo":42,
+    "Sck":6.0
+  },
+  {
+    "Player":"Harold Landry",
+    "Comb":69,
+    "Asst":23,
+    "Solo":43,
+    "Sck":5.5
+  },
+  {
+    "Player":"Nasir Adderley",
+    "Comb":69,
+    "Asst":11,
+    "Solo":56,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devin McCourty",
+    "Comb":68,
+    "Asst":23,
+    "Solo":39,
+    "Sck":0.0
+  },
+  {
+    "Player":"Terrell Edmunds",
+    "Comb":68,
+    "Asst":22,
+    "Solo":43,
+    "Sck":1.0
+  },
+  {
+    "Player":"Carlton Davis",
+    "Comb":68,
+    "Asst":16,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sione Takitaki",
+    "Comb":67,
+    "Asst":26,
+    "Solo":39,
+    "Sck":1.0
+  },
+  {
+    "Player":"Andrew Sendejo",
+    "Comb":67,
+    "Asst":16,
+    "Solo":45,
+    "Sck":0.0
+  },
+  {
+    "Player":"Karl Joseph",
+    "Comb":67,
+    "Asst":21,
+    "Solo":45,
+    "Sck":0.0
+  },
+  {
+    "Player":"Buster Skrine",
+    "Comb":66,
+    "Asst":14,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rodney McLeod",
+    "Comb":66,
+    "Asst":23,
+    "Solo":41,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lamarcus Joyner",
+    "Comb":66,
+    "Asst":13,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tashaun Gipson",
+    "Comb":66,
+    "Asst":18,
+    "Solo":47,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chauncey Gardner-Johnson",
+    "Comb":66,
+    "Asst":14,
+    "Solo":52,
+    "Sck":1.0
+  },
+  {
+    "Player":"Terrance Mitchell",
+    "Comb":65,
+    "Asst":11,
+    "Solo":51,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Fuller",
+    "Comb":65,
+    "Asst":13,
+    "Solo":49,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sheldon Richardson",
+    "Comb":64,
+    "Asst":30,
+    "Solo":32,
+    "Sck":4.5
+  },
+  {
+    "Player":"Trayvon Mullen",
+    "Comb":64,
+    "Asst":8,
+    "Solo":54,
+    "Sck":0.0
+  },
+  {
+    "Player":"Julian Love",
+    "Comb":64,
+    "Asst":17,
+    "Solo":45,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Dugger",
+    "Comb":64,
+    "Asst":21,
+    "Solo":40,
+    "Sck":0.0
+  },
+  {
+    "Player":"Quandre Diggs",
+    "Comb":64,
+    "Asst":22,
+    "Solo":42,
+    "Sck":0.0
+  },
+  {
+    "Player":"Michael Davis",
+    "Comb":64,
+    "Asst":16,
+    "Solo":46,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaquill Griffin",
+    "Comb":63,
+    "Asst":10,
+    "Solo":52,
+    "Sck":0.0
+  },
+  {
+    "Player":"Blessuan Austin",
+    "Comb":63,
+    "Asst":13,
+    "Solo":48,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonathan Allen",
+    "Comb":63,
+    "Asst":26,
+    "Solo":36,
+    "Sck":2.0
+  },
+  {
+    "Player":"D.J. Reed",
+    "Comb":62,
+    "Asst":16,
+    "Solo":43,
+    "Sck":0.0
+  },
+  {
+    "Player":"Haason Reddick",
+    "Comb":62,
+    "Asst":20,
+    "Solo":41,
+    "Sck":12.5
+  },
+  {
+    "Player":"Michael Ojemudia",
+    "Comb":62,
+    "Asst":7,
+    "Solo":54,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyrann Mathieu",
+    "Comb":62,
+    "Asst":14,
+    "Solo":47,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marshon Lattimore",
+    "Comb":62,
+    "Asst":10,
+    "Solo":49,
+    "Sck":0.0
+  },
+  {
+    "Player":"Linval Joseph",
+    "Comb":62,
+    "Asst":29,
+    "Solo":30,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Jones",
+    "Comb":62,
+    "Asst":21,
+    "Solo":37,
+    "Sck":1.0
+  },
+  {
+    "Player":"Sam Hubbard",
+    "Comb":62,
+    "Asst":29,
+    "Solo":31,
+    "Sck":2.0
+  },
+  {
+    "Player":"Rasul Douglas",
+    "Comb":62,
+    "Asst":12,
+    "Solo":47,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamel Dean",
+    "Comb":62,
+    "Asst":11,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Elandon Roberts",
+    "Comb":61,
+    "Asst":28,
+    "Solo":31,
+    "Sck":1.5
+  },
+  {
+    "Player":"Patrick Peterson",
+    "Comb":61,
+    "Asst":9,
+    "Solo":51,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nevin Lawson",
+    "Comb":61,
+    "Asst":14,
+    "Solo":47,
+    "Sck":1.0
+  },
+  {
+    "Player":"Johnathan Joseph",
+    "Comb":61,
+    "Asst":8,
+    "Solo":48,
+    "Sck":0.0
+  },
+  {
+    "Player":"Erik Harris",
+    "Comb":61,
+    "Asst":17,
+    "Solo":42,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jason Verrett",
+    "Comb":60,
+    "Asst":10,
+    "Solo":47,
+    "Sck":0.0
+  },
+  {
+    "Player":"Leighton Vander Esch",
+    "Comb":60,
+    "Asst":28,
+    "Solo":29,
+    "Sck":1.0
+  },
+  {
+    "Player":"Harvey Langi",
+    "Comb":60,
+    "Asst":23,
+    "Solo":34,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Fuller",
+    "Comb":60,
+    "Asst":18,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Williams",
+    "Comb":59,
+    "Asst":20,
+    "Solo":39,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darius Slay",
+    "Comb":59,
+    "Asst":6,
+    "Solo":50,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jourdan Lewis",
+    "Comb":59,
+    "Asst":19,
+    "Solo":38,
+    "Sck":2.0
+  },
+  {
+    "Player":"Jayron Kearse",
+    "Comb":59,
+    "Asst":18,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jahlani Tavai",
+    "Comb":58,
+    "Asst":26,
+    "Solo":28,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nik Needham",
+    "Comb":58,
+    "Asst":22,
+    "Solo":33,
+    "Sck":1.0
+  },
+  {
+    "Player":"DeMarcus Lawrence",
+    "Comb":58,
+    "Asst":24,
+    "Solo":33,
+    "Sck":6.5
+  },
+  {
+    "Player":"Trevon Diggs",
+    "Comb":58,
+    "Asst":9,
+    "Solo":48,
+    "Sck":1.0
+  },
+  {
+    "Player":"Brian Burns",
+    "Comb":58,
+    "Asst":23,
+    "Solo":35,
+    "Sck":9.0
+  },
+  {
+    "Player":"DeForest Buckner",
+    "Comb":58,
+    "Asst":21,
+    "Solo":28,
+    "Sck":9.5
+  },
+  {
+    "Player":"Leonard Williams",
+    "Comb":57,
+    "Asst":28,
+    "Solo":22,
+    "Sck":11.5
+  },
+  {
+    "Player":"Tre'Davious White",
+    "Comb":57,
+    "Asst":13,
+    "Solo":41,
+    "Sck":1.5
+  },
+  {
+    "Player":"Kevin King",
+    "Comb":57,
+    "Asst":12,
+    "Solo":44,
+    "Sck":0.0
+  },
+  {
+    "Player":"Christian Jones",
+    "Comb":57,
+    "Asst":24,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lawrence Guy",
+    "Comb":57,
+    "Asst":20,
+    "Solo":27,
+    "Sck":2.0
+  },
+  {
+    "Player":"Nate Gerry",
+    "Comb":57,
+    "Asst":25,
+    "Solo":28,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tae Crowder",
+    "Comb":57,
+    "Asst":23,
+    "Solo":29,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jordyn Brooks",
+    "Comb":57,
+    "Asst":22,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaquil Barrett",
+    "Comb":57,
+    "Asst":14,
+    "Solo":41,
+    "Sck":8.0
+  },
+  {
+    "Player":"Kevin Pierre-Louis",
+    "Comb":56,
+    "Asst":20,
+    "Solo":34,
+    "Sck":1.0
+  },
+  {
+    "Player":"Dre Kirkpatrick",
+    "Comb":56,
+    "Asst":3,
+    "Solo":53,
+    "Sck":0.0
+  },
+  {
+    "Player":"Quinnen Williams",
+    "Comb":55,
+    "Asst":23,
+    "Solo":30,
+    "Sck":7.0
+  },
+  {
+    "Player":"Duke Riley",
+    "Comb":55,
+    "Asst":25,
+    "Solo":24,
+    "Sck":0.5
+  },
+  {
+    "Player":"Jason Pierre-Paul",
+    "Comb":55,
+    "Asst":21,
+    "Solo":32,
+    "Sck":9.5
+  },
+  {
+    "Player":"Desmond King",
+    "Comb":55,
+    "Asst":15,
+    "Solo":35,
+    "Sck":2.0
+  },
+  {
+    "Player":"Sebastian Joseph-Day",
+    "Comb":55,
+    "Asst":20,
+    "Solo":32,
+    "Sck":1.0
+  },
+  {
+    "Player":"Janoris Jenkins",
+    "Comb":55,
+    "Asst":11,
+    "Solo":43,
+    "Sck":0.0
+  },
+  {
+    "Player":"Leonard Floyd",
+    "Comb":55,
+    "Asst":24,
+    "Solo":26,
+    "Sck":10.5
+  },
+  {
+    "Player":"Ronald Darby",
+    "Comb":55,
+    "Asst":12,
+    "Solo":42,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah Simmons",
+    "Comb":54,
+    "Asst":11,
+    "Solo":39,
+    "Sck":2.0
+  },
+  {
+    "Player":"Daron Payne",
+    "Comb":54,
+    "Asst":27,
+    "Solo":25,
+    "Sck":3.0
+  },
+  {
+    "Player":"David Long",
+    "Comb":54,
+    "Asst":24,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cameron Heyward",
+    "Comb":54,
+    "Asst":24,
+    "Solo":25,
+    "Sck":4.0
+  },
+  {
+    "Player":"James Bradberry",
+    "Comb":54,
+    "Asst":10,
+    "Solo":43,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ugo Amadi",
+    "Comb":54,
+    "Asst":7,
+    "Solo":46,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.J. Watt",
+    "Comb":53,
+    "Asst":10,
+    "Solo":37,
+    "Sck":15.0
+  },
+  {
+    "Player":"Grover Stewart",
+    "Comb":53,
+    "Asst":13,
+    "Solo":32,
+    "Sck":0.5
+  },
+  {
+    "Player":"John Simon",
+    "Comb":53,
+    "Asst":19,
+    "Solo":27,
+    "Sck":2.0
+  },
+  {
+    "Player":"Malik Reed",
+    "Comb":53,
+    "Asst":19,
+    "Solo":33,
+    "Sck":8.0
+  },
+  {
+    "Player":"Amani Oruwariye",
+    "Comb":53,
+    "Asst":8,
+    "Solo":44,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dexter Lawrence",
+    "Comb":53,
+    "Asst":23,
+    "Solo":25,
+    "Sck":4.0
+  },
+  {
+    "Player":"L.J. Fort",
+    "Comb":53,
+    "Asst":21,
+    "Solo":30,
+    "Sck":0.0
+  },
+  {
+    "Player":"Juston Burris",
+    "Comb":53,
+    "Asst":19,
+    "Solo":32,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kenny Young",
+    "Comb":52,
+    "Asst":21,
+    "Solo":28,
+    "Sck":1.0
+  },
+  {
+    "Player":"J.J. Watt",
+    "Comb":52,
+    "Asst":16,
+    "Solo":32,
+    "Sck":5.0
+  },
+  {
+    "Player":"Za'Darius Smith",
+    "Comb":52,
+    "Asst":17,
+    "Solo":29,
+    "Sck":12.5
+  },
+  {
+    "Player":"LeShaun Sims",
+    "Comb":52,
+    "Asst":14,
+    "Solo":35,
+    "Sck":0.0
+  },
+  {
+    "Player":"Reggie Ragland",
+    "Comb":52,
+    "Asst":22,
+    "Solo":27,
+    "Sck":1.0
+  },
+  {
+    "Player":"Marcus Peters",
+    "Comb":52,
+    "Asst":6,
+    "Solo":44,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tarvarius Moore",
+    "Comb":52,
+    "Asst":15,
+    "Solo":37,
+    "Sck":0.0
+  },
+  {
+    "Player":"Grady Jarrett",
+    "Comb":52,
+    "Asst":25,
+    "Solo":24,
+    "Sck":4.0
+  },
+  {
+    "Player":"Joe Haden",
+    "Comb":52,
+    "Asst":8,
+    "Solo":42,
+    "Sck":0.0
+  },
+  {
+    "Player":"Derek Wolfe",
+    "Comb":51,
+    "Asst":32,
+    "Solo":15,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tahir Whitehead",
+    "Comb":51,
+    "Asst":24,
+    "Solo":27,
+    "Sck":0.0
+  },
+  {
+    "Player":"Charvarius Ward",
+    "Comb":51,
+    "Asst":13,
+    "Solo":36,
+    "Sck":1.0
+  },
+  {
+    "Player":"Kendall Sheffield",
+    "Comb":51,
+    "Asst":14,
+    "Solo":37,
+    "Sck":0.0
+  },
+  {
+    "Player":"Byron Murphy",
+    "Comb":51,
+    "Asst":11,
+    "Solo":40,
+    "Sck":2.0
+  },
+  {
+    "Player":"Cameron Jordan",
+    "Comb":51,
+    "Asst":17,
+    "Solo":32,
+    "Sck":7.5
+  },
+  {
+    "Player":"Xavien Howard",
+    "Comb":51,
+    "Asst":11,
+    "Solo":35,
+    "Sck":0.0
+  },
+  {
+    "Player":"Amani Hooker",
+    "Comb":51,
+    "Asst":16,
+    "Solo":30,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Hilton",
+    "Comb":51,
+    "Asst":9,
+    "Solo":39,
+    "Sck":3.0
+  },
+  {
+    "Player":"Michael Brockers",
+    "Comb":51,
+    "Asst":30,
+    "Solo":19,
+    "Sck":5.0
+  },
+  {
+    "Player":"Jaire Alexander",
+    "Comb":51,
+    "Asst":12,
+    "Solo":39,
+    "Sck":1.0
+  },
+  {
+    "Player":"Nick Vigil",
+    "Comb":50,
+    "Asst":21,
+    "Solo":27,
+    "Sck":2.0
+  },
+  {
+    "Player":"Khalil Mack",
+    "Comb":50,
+    "Asst":21,
+    "Solo":26,
+    "Sck":9.0
+  },
+  {
+    "Player":"Matt Judon",
+    "Comb":50,
+    "Asst":18,
+    "Solo":31,
+    "Sck":6.0
+  },
+  {
+    "Player":"Terez Hall",
+    "Comb":50,
+    "Asst":17,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kendall Fuller",
+    "Comb":50,
+    "Asst":12,
+    "Solo":38,
+    "Sck":0.0
+  },
+  {
+    "Player":"Carlos Dunlap",
+    "Comb":50,
+    "Asst":17,
+    "Solo":33,
+    "Sck":7.0
+  },
+  {
+    "Player":"Deatrich Wise",
+    "Comb":49,
+    "Asst":22,
+    "Solo":21,
+    "Sck":2.5
+  },
+  {
+    "Player":"Andrew Wingard",
+    "Comb":49,
+    "Asst":15,
+    "Solo":33,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dalvin Tomlinson",
+    "Comb":49,
+    "Asst":24,
+    "Solo":21,
+    "Sck":3.5
+  },
+  {
+    "Player":"Jeffery Simmons",
+    "Comb":49,
+    "Asst":25,
+    "Solo":24,
+    "Sck":3.0
+  },
+  {
+    "Player":"DaQuan Jones",
+    "Comb":49,
+    "Asst":20,
+    "Solo":23,
+    "Sck":2.0
+  },
+  {
+    "Player":"Kerry Hyder",
+    "Comb":49,
+    "Asst":19,
+    "Solo":28,
+    "Sck":8.5
+  },
+  {
+    "Player":"Akiem Hicks",
+    "Comb":49,
+    "Asst":19,
+    "Solo":29,
+    "Sck":3.5
+  },
+  {
+    "Player":"Pierre Desir",
+    "Comb":49,
+    "Asst":10,
+    "Solo":39,
+    "Sck":0.0
+  },
+  {
+    "Player":"Arik Armstead",
+    "Comb":49,
+    "Asst":20,
+    "Solo":26,
+    "Sck":3.5
+  },
+  {
+    "Player":"Chase Winovich",
+    "Comb":48,
+    "Asst":15,
+    "Solo":24,
+    "Sck":5.5
+  },
+  {
+    "Player":"Levi Wallace",
+    "Comb":48,
+    "Asst":14,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andrew Van Ginkel",
+    "Comb":48,
+    "Asst":19,
+    "Solo":26,
+    "Sck":5.5
+  },
+  {
+    "Player":"Joe Thomas",
+    "Comb":48,
+    "Asst":18,
+    "Solo":30,
+    "Sck":0.0
+  },
+  {
+    "Player":"Aldon Smith",
+    "Comb":48,
+    "Asst":17,
+    "Solo":30,
+    "Sck":5.0
+  },
+  {
+    "Player":"Zach Sieler",
+    "Comb":48,
+    "Asst":18,
+    "Solo":27,
+    "Sck":3.5
+  },
+  {
+    "Player":"Denzel Perryman",
+    "Comb":48,
+    "Asst":22,
+    "Solo":25,
+    "Sck":1.0
+  },
+  {
+    "Player":"Steven Nelson",
+    "Comb":48,
+    "Asst":5,
+    "Solo":38,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alex Highsmith",
+    "Comb":48,
+    "Asst":18,
+    "Solo":26,
+    "Sck":2.0
+  },
+  {
+    "Player":"Johnathan Hankins",
+    "Comb":48,
+    "Asst":21,
+    "Solo":21,
+    "Sck":1.0
+  },
+  {
+    "Player":"Myles Garrett",
+    "Comb":48,
+    "Asst":15,
+    "Solo":30,
+    "Sck":12.0
+  },
+  {
+    "Player":"Chris Banjo",
+    "Comb":48,
+    "Asst":14,
+    "Solo":33,
+    "Sck":0.0
+  },
+  {
+    "Player":"Christian Wilkins",
+    "Comb":47,
+    "Asst":19,
+    "Solo":24,
+    "Sck":1.5
+  },
+  {
+    "Player":"Jeff Okudah",
+    "Comb":47,
+    "Asst":6,
+    "Solo":37,
+    "Sck":0.0
+  },
+  {
+    "Player":"Derrick Nnadi",
+    "Comb":47,
+    "Asst":24,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Emmanuel Moseley",
+    "Comb":47,
+    "Asst":13,
+    "Solo":33,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tre Flowers",
+    "Comb":47,
+    "Asst":10,
+    "Solo":37,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Epps",
+    "Comb":47,
+    "Asst":12,
+    "Solo":34,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mackensie Alexander",
+    "Comb":47,
+    "Asst":15,
+    "Solo":32,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaac Yiadom",
+    "Comb":46,
+    "Asst":17,
+    "Solo":26,
+    "Sck":0.5
+  },
+  {
+    "Player":"Denzel Ward",
+    "Comb":46,
+    "Asst":8,
+    "Solo":37,
+    "Sck":0.0
+  },
+  {
+    "Player":"Larry Ogunjobi",
+    "Comb":46,
+    "Asst":23,
+    "Solo":22,
+    "Sck":2.5
+  },
+  {
+    "Player":"Bobby McCain",
+    "Comb":46,
+    "Asst":7,
+    "Solo":38,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Graham",
+    "Comb":46,
+    "Asst":11,
+    "Solo":32,
+    "Sck":8.0
+  },
+  {
+    "Player":"Jarrad Davis",
+    "Comb":46,
+    "Asst":21,
+    "Solo":24,
+    "Sck":0.5
+  },
+  {
+    "Player":"Cameron Dantzler",
+    "Comb":46,
+    "Asst":10,
+    "Solo":34,
+    "Sck":0.0
+  },
+  {
+    "Player":"Keion Crossen",
+    "Comb":46,
+    "Asst":13,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jermaine Carter",
+    "Comb":46,
+    "Asst":25,
+    "Solo":20,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rock Ya-Sin",
+    "Comb":45,
+    "Asst":9,
+    "Solo":34,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mykal Walker",
+    "Comb":45,
+    "Asst":14,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephon Tuitt",
+    "Comb":45,
+    "Asst":12,
+    "Solo":31,
+    "Sck":11.0
+  },
+  {
+    "Player":"Montez Sweat",
+    "Comb":45,
+    "Asst":17,
+    "Solo":27,
+    "Sck":9.0
+  },
+  {
+    "Player":"Robert Spillane",
+    "Comb":45,
+    "Asst":6,
+    "Solo":34,
+    "Sck":2.0
+  },
+  {
+    "Player":"Matt Milano",
+    "Comb":45,
+    "Asst":10,
+    "Solo":30,
+    "Sck":3.5
+  },
+  {
+    "Player":"William Jackson",
+    "Comb":45,
+    "Asst":7,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"Aaron Donald",
+    "Comb":45,
+    "Asst":18,
+    "Solo":26,
+    "Sck":13.5
+  },
+  {
+    "Player":"Chase Young",
+    "Comb":44,
+    "Asst":12,
+    "Solo":30,
+    "Sck":7.5
+  },
+  {
+    "Player":"Darious Williams",
+    "Comb":44,
+    "Asst":7,
+    "Solo":35,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ndamukong Suh",
+    "Comb":44,
+    "Asst":17,
+    "Solo":27,
+    "Sck":6.0
+  },
+  {
+    "Player":"Nickell Robey-Coleman",
+    "Comb":44,
+    "Asst":7,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taylor Rapp",
+    "Comb":44,
+    "Asst":12,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jalen Ramsey",
+    "Comb":44,
+    "Asst":8,
+    "Solo":34,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brian Poole",
+    "Comb":44,
+    "Asst":10,
+    "Solo":33,
+    "Sck":1.0
+  },
+  {
+    "Player":"Will Parks",
+    "Comb":44,
+    "Asst":6,
+    "Solo":36,
+    "Sck":1.0
+  },
+  {
+    "Player":"David Onyemata",
+    "Comb":44,
+    "Asst":24,
+    "Solo":18,
+    "Sck":6.5
+  },
+  {
+    "Player":"Romeo Okwara",
+    "Comb":44,
+    "Asst":12,
+    "Solo":27,
+    "Sck":10.0
+  },
+  {
+    "Player":"Ben Niemann",
+    "Comb":44,
+    "Asst":15,
+    "Solo":28,
+    "Sck":1.0
+  },
+  {
+    "Player":"Ryan Neal",
+    "Comb":44,
+    "Asst":11,
+    "Solo":32,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jimmy Moreland",
+    "Comb":44,
+    "Asst":11,
+    "Solo":33,
+    "Sck":0.5
+  },
+  {
+    "Player":"Jaylon Johnson",
+    "Comb":44,
+    "Asst":10,
+    "Solo":32,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaleel Johnson",
+    "Comb":44,
+    "Asst":22,
+    "Solo":16,
+    "Sck":1.5
+  },
+  {
+    "Player":"Malik Harrison",
+    "Comb":44,
+    "Asst":18,
+    "Solo":24,
+    "Sck":0.0
+  },
+  {
+    "Player":"Raven Greene",
+    "Comb":44,
+    "Asst":16,
+    "Solo":24,
+    "Sck":1.5
+  },
+  {
+    "Player":"William Gholston",
+    "Comb":44,
+    "Asst":20,
+    "Solo":21,
+    "Sck":3.0
+  },
+  {
+    "Player":"Darian Thompson",
+    "Comb":43,
+    "Asst":13,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"Markus Golden",
+    "Comb":43,
+    "Asst":22,
+    "Solo":19,
+    "Sck":6.0
+  },
+  {
+    "Player":"Preston Smith",
+    "Comb":42,
+    "Asst":13,
+    "Solo":25,
+    "Sck":4.0
+  },
+  {
+    "Player":"Xavier Rhodes",
+    "Comb":42,
+    "Asst":7,
+    "Solo":28,
+    "Sck":0.0
+  },
+  {
+    "Player":"Troy Pride",
+    "Comb":42,
+    "Asst":15,
+    "Solo":26,
+    "Sck":0.0
+  },
+  {
+    "Player":"Emmanuel Ogbah",
+    "Comb":42,
+    "Asst":17,
+    "Solo":25,
+    "Sck":9.0
+  },
+  {
+    "Player":"Jason McCourty",
+    "Comb":42,
+    "Asst":12,
+    "Solo":25,
+    "Sck":0.0
+  },
+  {
+    "Player":"Foley Fatukasi",
+    "Comb":42,
+    "Asst":20,
+    "Solo":21,
+    "Sck":2.0
+  },
+  {
+    "Player":"Kenny Clark",
+    "Comb":42,
+    "Asst":14,
+    "Solo":24,
+    "Sck":2.0
+  },
+  {
+    "Player":"Bradley Chubb",
+    "Comb":42,
+    "Asst":16,
+    "Solo":26,
+    "Sck":7.5
+  },
+  {
+    "Player":"Bryce Callahan",
+    "Comb":42,
+    "Asst":6,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"Julian Blackmon",
+    "Comb":42,
+    "Asst":7,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Henry Anderson",
+    "Comb":42,
+    "Asst":23,
+    "Solo":17,
+    "Sck":0.5
+  },
+  {
+    "Player":"Juan Thornhill",
+    "Comb":41,
+    "Asst":8,
+    "Solo":33,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chandon Sullivan",
+    "Comb":41,
+    "Asst":9,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"L'Jarius Sneed",
+    "Comb":41,
+    "Asst":10,
+    "Solo":31,
+    "Sck":2.0
+  },
+  {
+    "Player":"Dre'Mont Jones",
+    "Comb":41,
+    "Asst":15,
+    "Solo":23,
+    "Sck":6.5
+  },
+  {
+    "Player":"Casey Hayward",
+    "Comb":41,
+    "Asst":5,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"Fletcher Cox",
+    "Comb":41,
+    "Asst":13,
+    "Solo":26,
+    "Sck":6.5
+  },
+  {
+    "Player":"Landon Collins",
+    "Comb":41,
+    "Asst":17,
+    "Solo":24,
+    "Sck":2.0
+  },
+  {
+    "Player":"Alex Anzalone",
+    "Comb":41,
+    "Asst":19,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"P.J. Williams",
+    "Comb":40,
+    "Asst":9,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bilal Nichols",
+    "Comb":40,
+    "Asst":24,
+    "Solo":15,
+    "Sck":5.0
+  },
+  {
+    "Player":"Avonte Maddox",
+    "Comb":40,
+    "Asst":4,
+    "Solo":36,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.C. Jackson",
+    "Comb":40,
+    "Asst":6,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Poona Ford",
+    "Comb":40,
+    "Asst":15,
+    "Solo":24,
+    "Sck":2.0
+  },
+  {
+    "Player":"Corn Elder",
+    "Comb":40,
+    "Asst":12,
+    "Solo":28,
+    "Sck":0.0
+  },
+  {
+    "Player":"Raekwon Davis",
+    "Comb":40,
+    "Asst":21,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mack Wilson",
+    "Comb":39,
+    "Asst":15,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ty Summers",
+    "Comb":39,
+    "Asst":12,
+    "Solo":25,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darryl Roberts",
+    "Comb":39,
+    "Asst":5,
+    "Solo":33,
+    "Sck":0.0
+  },
+  {
+    "Player":"Willie Gay Jr.",
+    "Comb":39,
+    "Asst":10,
+    "Solo":29,
+    "Sck":1.0
+  },
+  {
+    "Player":"Maxx Crosby",
+    "Comb":39,
+    "Asst":19,
+    "Solo":19,
+    "Sck":7.0
+  },
+  {
+    "Player":"Christian Covington",
+    "Comb":39,
+    "Asst":24,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Claybrooks",
+    "Comb":39,
+    "Asst":6,
+    "Solo":32,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Brown",
+    "Comb":39,
+    "Asst":7,
+    "Solo":32,
+    "Sck":1.0
+  },
+  {
+    "Player":"Joey Bosa",
+    "Comb":39,
+    "Asst":10,
+    "Solo":24,
+    "Sck":7.5
+  },
+  {
+    "Player":"Josh Sweat",
+    "Comb":38,
+    "Asst":14,
+    "Solo":23,
+    "Sck":6.0
+  },
+  {
+    "Player":"Jarran Reed",
+    "Comb":38,
+    "Asst":18,
+    "Solo":19,
+    "Sck":6.5
+  },
+  {
+    "Player":"Darius Phillips",
+    "Comb":38,
+    "Asst":8,
+    "Solo":30,
+    "Sck":0.0
+  },
+  {
+    "Player":"Steven Means",
+    "Comb":38,
+    "Asst":17,
+    "Solo":19,
+    "Sck":3.0
+  },
+  {
+    "Player":"Ronnie Harrison",
+    "Comb":38,
+    "Asst":14,
+    "Solo":24,
+    "Sck":1.0
+  },
+  {
+    "Player":"Javon Hargrave",
+    "Comb":38,
+    "Asst":22,
+    "Solo":16,
+    "Sck":4.5
+  },
+  {
+    "Player":"Bashaud Breeland",
+    "Comb":38,
+    "Asst":8,
+    "Solo":30,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chidobe Awuzie",
+    "Comb":38,
+    "Asst":9,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyson Alualu",
+    "Comb":38,
+    "Asst":21,
+    "Solo":14,
+    "Sck":2.0
+  },
+  {
+    "Player":"DeShawn Williams",
+    "Comb":37,
+    "Asst":17,
+    "Solo":16,
+    "Sck":2.0
+  },
+  {
+    "Player":"Danny Shelton",
+    "Comb":37,
+    "Asst":22,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Bradley Roby",
+    "Comb":37,
+    "Asst":4,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Benardrick McKinney",
+    "Comb":37,
+    "Asst":18,
+    "Solo":17,
+    "Sck":0.0
+  },
+  {
+    "Player":"Byron Jones",
+    "Comb":37,
+    "Asst":9,
+    "Solo":27,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jeff Heath",
+    "Comb":37,
+    "Asst":9,
+    "Solo":26,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcell Harris",
+    "Comb":37,
+    "Asst":10,
+    "Solo":25,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Harris",
+    "Comb":37,
+    "Asst":12,
+    "Solo":25,
+    "Sck":0.5
+  },
+  {
+    "Player":"Adam Gotsis",
+    "Comb":37,
+    "Asst":19,
+    "Solo":18,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephon Gilmore",
+    "Comb":37,
+    "Asst":7,
+    "Solo":27,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daryl Worley",
+    "Comb":36,
+    "Asst":7,
+    "Solo":29,
+    "Sck":0.0
+  },
+  {
+    "Player":"Olivier Vernon",
+    "Comb":36,
+    "Asst":12,
+    "Solo":21,
+    "Sck":9.0
+  },
+  {
+    "Player":"Brent Urban",
+    "Comb":36,
+    "Asst":19,
+    "Solo":15,
+    "Sck":2.5
+  },
+  {
+    "Player":"Bradley McDougald",
+    "Comb":36,
+    "Asst":13,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dean Lowry",
+    "Comb":36,
+    "Asst":22,
+    "Solo":12,
+    "Sck":3.0
+  },
+  {
+    "Player":"Carl Lawson",
+    "Comb":36,
+    "Asst":18,
+    "Solo":18,
+    "Sck":5.5
+  },
+  {
+    "Player":"Chris Jones",
+    "Comb":36,
+    "Asst":13,
+    "Solo":23,
+    "Sck":7.5
+  },
+  {
+    "Player":"Jalyn Holmes",
+    "Comb":36,
+    "Asst":20,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"C.J. Henderson",
+    "Comb":36,
+    "Asst":9,
+    "Solo":27,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bryce Hall",
+    "Comb":36,
+    "Asst":3,
+    "Solo":31,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darqueze Dennard",
+    "Comb":36,
+    "Asst":8,
+    "Solo":28,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyeler Davison",
+    "Comb":36,
+    "Asst":21,
+    "Solo":15,
+    "Sck":0.5
+  },
+  {
+    "Player":"Ashtyn Davis",
+    "Comb":36,
+    "Asst":11,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tarell Basham",
+    "Comb":36,
+    "Asst":17,
+    "Solo":18,
+    "Sck":3.5
+  },
+  {
+    "Player":"Corey Ballentine",
+    "Comb":36,
+    "Asst":6,
+    "Solo":27,
+    "Sck":0.0
+  },
+  {
+    "Player":"John Penisini",
+    "Comb":35,
+    "Asst":16,
+    "Solo":16,
+    "Sck":1.0
+  },
+  {
+    "Player":"Ifeadi Odenigbo",
+    "Comb":35,
+    "Asst":19,
+    "Solo":15,
+    "Sck":3.5
+  },
+  {
+    "Player":"Yannick Ngakoue",
+    "Comb":35,
+    "Asst":0,
+    "Solo":30,
+    "Sck":13.0
+  },
+  {
+    "Player":"A.J. Moore",
+    "Comb":35,
+    "Asst":14,
+    "Solo":19,
+    "Sck":1.0
+  },
+  {
+    "Player":"Barkevious Mingo",
+    "Comb":35,
+    "Asst":12,
+    "Solo":23,
+    "Sck":2.5
+  },
+  {
+    "Player":"Pernell McPhee",
+    "Comb":35,
+    "Asst":8,
+    "Solo":25,
+    "Sck":3.0
+  },
+  {
+    "Player":"Kevin Johnson",
+    "Comb":35,
+    "Asst":13,
+    "Solo":21,
+    "Sck":0.5
+  },
+  {
+    "Player":"Will Harris",
+    "Comb":35,
+    "Asst":9,
+    "Solo":24,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rashan Gary",
+    "Comb":35,
+    "Asst":16,
+    "Solo":18,
+    "Sck":5.0
+  },
+  {
+    "Player":"Rashad Fenton",
+    "Comb":35,
+    "Asst":8,
+    "Solo":27,
+    "Sck":0.0
+  },
+  {
+    "Player":"Todd Davis",
+    "Comb":35,
+    "Asst":19,
+    "Solo":16,
+    "Sck":1.0
+  },
+  {
+    "Player":"Cody Barton",
+    "Comb":35,
+    "Asst":11,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Troy Apke",
+    "Comb":35,
+    "Asst":10,
+    "Solo":24,
+    "Sck":0.0
+  },
+  {
+    "Player":"Azeez Al-Shaair",
+    "Comb":35,
+    "Asst":13,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zach Allen",
+    "Comb":35,
+    "Asst":15,
+    "Solo":17,
+    "Sck":2.0
+  },
+  {
+    "Player":"Shamar Stephen",
+    "Comb":34,
+    "Asst":14,
+    "Solo":18,
+    "Sck":0.5
+  },
+  {
+    "Player":"Cassius Marsh",
+    "Comb":34,
+    "Asst":6,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Jones",
+    "Comb":34,
+    "Asst":15,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Donte Jackson",
+    "Comb":34,
+    "Asst":12,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"P.J. Hall",
+    "Comb":34,
+    "Asst":16,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Kyler Fackrell",
+    "Comb":34,
+    "Asst":11,
+    "Solo":22,
+    "Sck":4.0
+  },
+  {
+    "Player":"Adam Butler",
+    "Comb":34,
+    "Asst":16,
+    "Solo":15,
+    "Sck":4.0
+  },
+  {
+    "Player":"Derrick Brown",
+    "Comb":34,
+    "Asst":13,
+    "Solo":20,
+    "Sck":2.0
+  },
+  {
+    "Player":"Kris Boyd",
+    "Comb":34,
+    "Asst":10,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyus Bowser",
+    "Comb":34,
+    "Asst":17,
+    "Solo":17,
+    "Sck":2.0
+  },
+  {
+    "Player":"Derek Barnett",
+    "Comb":34,
+    "Asst":13,
+    "Solo":20,
+    "Sck":5.5
+  },
+  {
+    "Player":"Logan Wilson",
+    "Comb":33,
+    "Asst":10,
+    "Solo":23,
+    "Sck":1.0
+  },
+  {
+    "Player":"Brandon Williams",
+    "Comb":33,
+    "Asst":14,
+    "Solo":18,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ed Oliver",
+    "Comb":33,
+    "Asst":10,
+    "Solo":20,
+    "Sck":3.0
+  },
+  {
+    "Player":"Uchenna Nwosu",
+    "Comb":33,
+    "Asst":13,
+    "Solo":19,
+    "Sck":4.5
+  },
+  {
+    "Player":"Javon Kinlaw",
+    "Comb":33,
+    "Asst":18,
+    "Solo":15,
+    "Sck":1.5
+  },
+  {
+    "Player":"Everson Griffen",
+    "Comb":33,
+    "Asst":15,
+    "Solo":16,
+    "Sck":6.0
+  },
+  {
+    "Player":"Devante Downs",
+    "Comb":33,
+    "Asst":8,
+    "Solo":24,
+    "Sck":0.0
+  },
+  {
+    "Player":"Denico Autry",
+    "Comb":33,
+    "Asst":13,
+    "Solo":16,
+    "Sck":7.5
+  },
+  {
+    "Player":"Dorance Armstrong",
+    "Comb":33,
+    "Asst":12,
+    "Solo":20,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaq Lawson",
+    "Comb":32,
+    "Asst":15,
+    "Solo":17,
+    "Sck":4.0
+  },
+  {
+    "Player":"Zach Kerr",
+    "Comb":32,
+    "Asst":21,
+    "Solo":10,
+    "Sck":2.0
+  },
+  {
+    "Player":"Jordan Jenkins",
+    "Comb":32,
+    "Asst":17,
+    "Solo":14,
+    "Sck":2.0
+  },
+  {
+    "Player":"B.J. Hill",
+    "Comb":32,
+    "Asst":17,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Shelby Harris",
+    "Comb":32,
+    "Asst":12,
+    "Solo":17,
+    "Sck":2.5
+  },
+  {
+    "Player":"Doug Costin",
+    "Comb":32,
+    "Asst":20,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.J. Carrie",
+    "Comb":32,
+    "Asst":7,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"Armon Watts",
+    "Comb":31,
+    "Asst":19,
+    "Solo":12,
+    "Sck":0.5
+  },
+  {
+    "Player":"Jacob Tuioti-Mariner",
+    "Comb":31,
+    "Asst":7,
+    "Solo":24,
+    "Sck":1.0
+  },
+  {
+    "Player":"Steve McLendon",
+    "Comb":31,
+    "Asst":16,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deshazor Everett",
+    "Comb":31,
+    "Asst":8,
+    "Solo":23,
+    "Sck":0.0
+  },
+  {
+    "Player":"Samson Ebukam",
+    "Comb":31,
+    "Asst":13,
+    "Solo":15,
+    "Sck":4.5
+  },
+  {
+    "Player":"Bud Dupree",
+    "Comb":31,
+    "Asst":8,
+    "Solo":21,
+    "Sck":8.0
+  },
+  {
+    "Player":"Akeem Davis-Gaither",
+    "Comb":31,
+    "Asst":11,
+    "Solo":20,
+    "Sck":0.5
+  },
+  {
+    "Player":"Chris Board",
+    "Comb":31,
+    "Asst":11,
+    "Solo":17,
+    "Sck":2.5
+  },
+  {
+    "Player":"Jeremiah Attaochu",
+    "Comb":31,
+    "Asst":7,
+    "Solo":24,
+    "Sck":5.0
+  },
+  {
+    "Player":"Jerry Tillery",
+    "Comb":30,
+    "Asst":11,
+    "Solo":18,
+    "Sck":3.0
+  },
+  {
+    "Player":"Tavierre Thomas",
+    "Comb":30,
+    "Asst":1,
+    "Solo":28,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jaquiski Tartt",
+    "Comb":30,
+    "Asst":10,
+    "Solo":20,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cameron Sutton",
+    "Comb":30,
+    "Asst":3,
+    "Solo":27,
+    "Sck":1.0
+  },
+  {
+    "Player":"Darnay Holmes",
+    "Comb":30,
+    "Asst":7,
+    "Solo":22,
+    "Sck":0.5
+  },
+  {
+    "Player":"DaVon Hamilton",
+    "Comb":30,
+    "Asst":16,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Porter Gustin",
+    "Comb":30,
+    "Asst":17,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaylon Ferguson",
+    "Comb":30,
+    "Asst":9,
+    "Solo":18,
+    "Sck":2.0
+  },
+  {
+    "Player":"Quinton Dunbar",
+    "Comb":30,
+    "Asst":2,
+    "Solo":28,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Coleman",
+    "Comb":30,
+    "Asst":8,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Allen",
+    "Comb":30,
+    "Asst":11,
+    "Solo":16,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mario Addison",
+    "Comb":30,
+    "Asst":9,
+    "Solo":18,
+    "Sck":5.0
+  },
+  {
+    "Player":"Bravvion Roy",
+    "Comb":29,
+    "Asst":16,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"Isaac Rochell",
+    "Comb":29,
+    "Asst":11,
+    "Solo":15,
+    "Sck":2.5
+  },
+  {
+    "Player":"Mike Pennel",
+    "Comb":29,
+    "Asst":16,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"David Mayo",
+    "Comb":29,
+    "Asst":11,
+    "Solo":17,
+    "Sck":0.0
+  },
+  {
+    "Player":"Arthur Maulet",
+    "Comb":29,
+    "Asst":6,
+    "Solo":20,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jerry Hughes",
+    "Comb":29,
+    "Asst":10,
+    "Solo":16,
+    "Sck":4.5
+  },
+  {
+    "Player":"Frank Clark",
+    "Comb":29,
+    "Asst":8,
+    "Solo":21,
+    "Sck":6.0
+  },
+  {
+    "Player":"Shy Tuttle",
+    "Comb":28,
+    "Asst":11,
+    "Solo":16,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brennan Scarlett",
+    "Comb":28,
+    "Asst":10,
+    "Solo":16,
+    "Sck":0.0
+  },
+  {
+    "Player":"Will Redmond",
+    "Comb":28,
+    "Asst":7,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Carl Nassib",
+    "Comb":28,
+    "Asst":11,
+    "Solo":16,
+    "Sck":2.5
+  },
+  {
+    "Player":"Tanoh Kpassagnon",
+    "Comb":28,
+    "Asst":8,
+    "Solo":20,
+    "Sck":1.0
+  },
+  {
+    "Player":"Malik Jackson",
+    "Comb":28,
+    "Asst":13,
+    "Solo":15,
+    "Sck":2.5
+  },
+  {
+    "Player":"Lamar Jackson",
+    "Comb":28,
+    "Asst":2,
+    "Solo":24,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Hollins",
+    "Comb":28,
+    "Asst":10,
+    "Solo":18,
+    "Sck":3.0
+  },
+  {
+    "Player":"Kamu Grugier-Hill",
+    "Comb":28,
+    "Asst":7,
+    "Solo":19,
+    "Sck":1.0
+  },
+  {
+    "Player":"Neville Gallimore",
+    "Comb":28,
+    "Asst":17,
+    "Solo":10,
+    "Sck":0.5
+  },
+  {
+    "Player":"Troy Dye",
+    "Comb":28,
+    "Asst":15,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jack Crawford",
+    "Comb":28,
+    "Asst":8,
+    "Solo":15,
+    "Sck":2.0
+  },
+  {
+    "Player":"John Cominsky",
+    "Comb":28,
+    "Asst":14,
+    "Solo":12,
+    "Sck":1.0
+  },
+  {
+    "Player":"Trevon Coley",
+    "Comb":28,
+    "Asst":10,
+    "Solo":16,
+    "Sck":2.0
+  },
+  {
+    "Player":"Calais Campbell",
+    "Comb":28,
+    "Asst":10,
+    "Solo":16,
+    "Sck":4.0
+  },
+  {
+    "Player":"Tershawn Wharton",
+    "Comb":27,
+    "Asst":13,
+    "Solo":12,
+    "Sck":2.0
+  },
+  {
+    "Player":"Carlos Watkins",
+    "Comb":27,
+    "Asst":10,
+    "Solo":13,
+    "Sck":2.0
+  },
+  {
+    "Player":"Deionte Thompson",
+    "Comb":27,
+    "Asst":9,
+    "Solo":18,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jimmy Smith",
+    "Comb":27,
+    "Asst":4,
+    "Solo":21,
+    "Sck":1.0
+  },
+  {
+    "Player":"Sheldrick Redwine",
+    "Comb":27,
+    "Asst":8,
+    "Solo":16,
+    "Sck":0.5
+  },
+  {
+    "Player":"Sharrod Neasman",
+    "Comb":27,
+    "Asst":8,
+    "Solo":18,
+    "Sck":1.0
+  },
+  {
+    "Player":"Raekwon McMillan",
+    "Comb":27,
+    "Asst":10,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"Maurice Hurst",
+    "Comb":27,
+    "Asst":13,
+    "Solo":14,
+    "Sck":0.5
+  },
+  {
+    "Player":"Morgan Fox",
+    "Comb":27,
+    "Asst":6,
+    "Solo":16,
+    "Sck":6.0
+  },
+  {
+    "Player":"Clelin Ferrell",
+    "Comb":27,
+    "Asst":9,
+    "Solo":16,
+    "Sck":2.0
+  },
+  {
+    "Player":"Byron Cowart",
+    "Comb":27,
+    "Asst":13,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"Malcom Brown",
+    "Comb":27,
+    "Asst":18,
+    "Solo":8,
+    "Sck":1.0
+  },
+  {
+    "Player":"Breon Borders",
+    "Comb":27,
+    "Asst":5,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Averett",
+    "Comb":27,
+    "Asst":5,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jomal Wiltz",
+    "Comb":26,
+    "Asst":10,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tavon Wilson",
+    "Comb":26,
+    "Asst":3,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"Xavier Williams",
+    "Comb":26,
+    "Asst":14,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tanner Vallejo",
+    "Comb":26,
+    "Asst":8,
+    "Solo":15,
+    "Sck":1.0
+  },
+  {
+    "Player":"Sidney Jones",
+    "Comb":26,
+    "Asst":5,
+    "Solo":20,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Jackson",
+    "Comb":26,
+    "Asst":5,
+    "Solo":19,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Dunn",
+    "Comb":26,
+    "Asst":14,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devin Bush",
+    "Comb":26,
+    "Asst":10,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Dawuane Smoot",
+    "Comb":25,
+    "Asst":4,
+    "Solo":20,
+    "Sck":5.5
+  },
+  {
+    "Player":"Jeremy Reaves",
+    "Comb":25,
+    "Asst":10,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jacob Phillips",
+    "Comb":25,
+    "Asst":10,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Xavier McKinney",
+    "Comb":25,
+    "Asst":11,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"Frankie Luvu",
+    "Comb":25,
+    "Asst":8,
+    "Solo":17,
+    "Sck":2.0
+  },
+  {
+    "Player":"Justin Houston",
+    "Comb":25,
+    "Asst":6,
+    "Solo":16,
+    "Sck":8.0
+  },
+  {
+    "Player":"Trey Hendrickson",
+    "Comb":25,
+    "Asst":3,
+    "Solo":22,
+    "Sck":13.5
+  },
+  {
+    "Player":"Michael Danna",
+    "Comb":25,
+    "Asst":9,
+    "Solo":15,
+    "Sck":2.5
+  },
+  {
+    "Player":"Damon Arnette",
+    "Comb":25,
+    "Asst":4,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ricardo Allen",
+    "Comb":25,
+    "Asst":7,
+    "Solo":18,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Wonnum",
+    "Comb":24,
+    "Asst":8,
+    "Solo":14,
+    "Sck":3.0
+  },
+  {
+    "Player":"Brandon Rusnak",
+    "Comb":24,
+    "Asst":9,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Norman",
+    "Comb":24,
+    "Asst":3,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"Benson Mayowa",
+    "Comb":24,
+    "Asst":5,
+    "Solo":19,
+    "Sck":6.0
+  },
+  {
+    "Player":"Hercules Mata'afa",
+    "Comb":24,
+    "Asst":12,
+    "Solo":12,
+    "Sck":2.5
+  },
+  {
+    "Player":"Kamal Martin",
+    "Comb":24,
+    "Asst":7,
+    "Solo":13,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tyquan Lewis",
+    "Comb":24,
+    "Asst":5,
+    "Solo":16,
+    "Sck":4.0
+  },
+  {
+    "Player":"Chris Jackson",
+    "Comb":24,
+    "Asst":10,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Holton Hill",
+    "Comb":24,
+    "Asst":5,
+    "Solo":18,
+    "Sck":1.0
+  },
+  {
+    "Player":"Yetur Gross-Matos",
+    "Comb":24,
+    "Asst":15,
+    "Solo":8,
+    "Sck":2.5
+  },
+  {
+    "Player":"Phillip Gaines",
+    "Comb":24,
+    "Asst":6,
+    "Solo":17,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matthias Farley",
+    "Comb":24,
+    "Asst":11,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Angelo Blackson",
+    "Comb":24,
+    "Asst":9,
+    "Solo":13,
+    "Sck":2.5
+  },
+  {
+    "Player":"Antwaun Woods",
+    "Comb":23,
+    "Asst":16,
+    "Solo":7,
+    "Sck":1.0
+  },
+  {
+    "Player":"Nick Williams",
+    "Comb":23,
+    "Asst":11,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"Al-Quadin Muhammad",
+    "Comb":23,
+    "Asst":4,
+    "Solo":14,
+    "Sck":2.0
+  },
+  {
+    "Player":"Tyler Matakevich",
+    "Comb":23,
+    "Asst":11,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Lancaster",
+    "Comb":23,
+    "Asst":15,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dontae Johnson",
+    "Comb":23,
+    "Asst":6,
+    "Solo":17,
+    "Sck":1.0
+  },
+  {
+    "Player":"Quinton Jefferson",
+    "Comb":23,
+    "Asst":9,
+    "Solo":12,
+    "Sck":3.0
+  },
+  {
+    "Player":"Bryce Hager",
+    "Comb":23,
+    "Asst":9,
+    "Solo":10,
+    "Sck":0.5
+  },
+  {
+    "Player":"Sam Franklin",
+    "Comb":23,
+    "Asst":8,
+    "Solo":14,
+    "Sck":1.0
+  },
+  {
+    "Player":"Dante Fowler Jr.",
+    "Comb":23,
+    "Asst":11,
+    "Solo":12,
+    "Sck":3.0
+  },
+  {
+    "Player":"Terrence Brooks",
+    "Comb":23,
+    "Asst":7,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"A.J. Bouye",
+    "Comb":23,
+    "Asst":2,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"Essang Bassey",
+    "Comb":23,
+    "Asst":2,
+    "Solo":21,
+    "Sck":0.0
+  },
+  {
+    "Player":"K'Waun Williams",
+    "Comb":22,
+    "Asst":5,
+    "Solo":16,
+    "Sck":2.0
+  },
+  {
+    "Player":"James Vaughters",
+    "Comb":22,
+    "Asst":7,
+    "Solo":15,
+    "Sck":1.5
+  },
+  {
+    "Player":"Jamar Taylor",
+    "Comb":22,
+    "Asst":2,
+    "Solo":17,
+    "Sck":1.0
+  },
+  {
+    "Player":"M.J. Stewart",
+    "Comb":22,
+    "Asst":4,
+    "Solo":18,
+    "Sck":1.0
+  },
+  {
+    "Player":"Alton Robinson",
+    "Comb":22,
+    "Asst":9,
+    "Solo":12,
+    "Sck":4.0
+  },
+  {
+    "Player":"Dean Marlowe",
+    "Comb":22,
+    "Asst":6,
+    "Solo":11,
+    "Sck":1.5
+  },
+  {
+    "Player":"Cre'von LeBlanc",
+    "Comb":22,
+    "Asst":3,
+    "Solo":18,
+    "Sck":1.0
+  },
+  {
+    "Player":"Justin Layne",
+    "Comb":22,
+    "Asst":9,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Javelin Guidry",
+    "Comb":22,
+    "Asst":7,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trey Flowers",
+    "Comb":22,
+    "Asst":10,
+    "Solo":11,
+    "Sck":2.0
+  },
+  {
+    "Player":"Tyrel Dodson",
+    "Comb":22,
+    "Asst":9,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"L.J. Collier",
+    "Comb":22,
+    "Asst":6,
+    "Solo":15,
+    "Sck":3.0
+  },
+  {
+    "Player":"Tevaughn Campbell",
+    "Comb":22,
+    "Asst":6,
+    "Solo":16,
+    "Sck":0.0
+  },
+  {
+    "Player":"DeVante Bausby",
+    "Comb":22,
+    "Asst":0,
+    "Solo":22,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Zimmer",
+    "Comb":21,
+    "Asst":8,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"K'Von Wallace",
+    "Comb":21,
+    "Asst":6,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"George Odum",
+    "Comb":21,
+    "Asst":7,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Whitney Mercilus",
+    "Comb":21,
+    "Asst":9,
+    "Solo":11,
+    "Sck":4.0
+  },
+  {
+    "Player":"Greg Mabin",
+    "Comb":21,
+    "Asst":1,
+    "Solo":20,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kingsley Keke",
+    "Comb":21,
+    "Asst":9,
+    "Solo":9,
+    "Sck":4.0
+  },
+  {
+    "Player":"John Jenkins",
+    "Comb":21,
+    "Asst":14,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaun Dion Hamilton",
+    "Comb":21,
+    "Asst":7,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Randy Gregory",
+    "Comb":21,
+    "Asst":6,
+    "Solo":15,
+    "Sck":3.5
+  },
+  {
+    "Player":"Marcus Davenport",
+    "Comb":21,
+    "Asst":9,
+    "Solo":12,
+    "Sck":1.5
+  },
+  {
+    "Player":"Oren Burks",
+    "Comb":21,
+    "Asst":7,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jahleel Addae",
+    "Comb":21,
+    "Asst":8,
+    "Solo":12,
+    "Sck":0.5
+  },
+  {
+    "Player":"Ahkello Witherspoon",
+    "Comb":20,
+    "Asst":3,
+    "Solo":17,
+    "Sck":0.0
+  },
+  {
+    "Player":"Desmond Trufant",
+    "Comb":20,
+    "Asst":4,
+    "Solo":16,
+    "Sck":1.0
+  },
+  {
+    "Player":"Damion Square",
+    "Comb":20,
+    "Asst":11,
+    "Solo":8,
+    "Sck":1.0
+  },
+  {
+    "Player":"Rashard Robinson",
+    "Comb":20,
+    "Asst":7,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sheldon Rankins",
+    "Comb":20,
+    "Asst":7,
+    "Solo":12,
+    "Sck":1.5
+  },
+  {
+    "Player":"Robert Quinn",
+    "Comb":20,
+    "Asst":6,
+    "Solo":14,
+    "Sck":2.0
+  },
+  {
+    "Player":"Rakeem Nunez-Roches",
+    "Comb":20,
+    "Asst":13,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jake Martin",
+    "Comb":20,
+    "Asst":7,
+    "Solo":11,
+    "Sck":3.0
+  },
+  {
+    "Player":"Sean Lee",
+    "Comb":20,
+    "Asst":9,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damontae Kazee",
+    "Comb":20,
+    "Asst":3,
+    "Solo":17,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Jones",
+    "Comb":20,
+    "Asst":6,
+    "Solo":12,
+    "Sck":3.0
+  },
+  {
+    "Player":"Anfernee Jennings",
+    "Comb":20,
+    "Asst":10,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Giles-Harris",
+    "Comb":20,
+    "Asst":10,
+    "Solo":8,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jalen Thompson",
+    "Comb":19,
+    "Asst":3,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jabaal Sheard",
+    "Comb":19,
+    "Asst":9,
+    "Solo":9,
+    "Sck":1.5
+  },
+  {
+    "Player":"Tim Settle",
+    "Comb":19,
+    "Asst":7,
+    "Solo":12,
+    "Sck":5.0
+  },
+  {
+    "Player":"Curtis Riley",
+    "Comb":19,
+    "Asst":5,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Reader",
+    "Comb":19,
+    "Asst":11,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trent Murphy",
+    "Comb":19,
+    "Asst":4,
+    "Solo":11,
+    "Sck":2.0
+  },
+  {
+    "Player":"Justin Madubuike",
+    "Comb":19,
+    "Asst":8,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"Devon Kennard",
+    "Comb":19,
+    "Asst":4,
+    "Solo":13,
+    "Sck":3.0
+  },
+  {
+    "Player":"Khalid Kareem",
+    "Comb":19,
+    "Asst":10,
+    "Solo":8,
+    "Sck":1.0
+  },
+  {
+    "Player":"Chris Jones",
+    "Comb":19,
+    "Asst":1,
+    "Solo":18,
+    "Sck":0.0
+  },
+  {
+    "Player":"Da'Shawn Hand",
+    "Comb":19,
+    "Asst":7,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonathan Greenard",
+    "Comb":19,
+    "Asst":9,
+    "Solo":10,
+    "Sck":1.0
+  },
+  {
+    "Player":"Adarius Taylor",
+    "Comb":19,
+    "Asst":9,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevin Givens",
+    "Comb":19,
+    "Asst":5,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"John Franklin-Myers",
+    "Comb":19,
+    "Asst":11,
+    "Solo":6,
+    "Sck":3.0
+  },
+  {
+    "Player":"Zaire Franklin",
+    "Comb":19,
+    "Asst":5,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jadeveon Clowney",
+    "Comb":19,
+    "Asst":5,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"K'Lavon Chaisson",
+    "Comb":19,
+    "Asst":7,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"Joejuan Williams",
+    "Comb":18,
+    "Asst":6,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"DeMarcus Walker",
+    "Comb":18,
+    "Asst":9,
+    "Solo":9,
+    "Sck":4.5
+  },
+  {
+    "Player":"Daniel Thomas",
+    "Comb":18,
+    "Asst":2,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"Richard Sherman",
+    "Comb":18,
+    "Asst":2,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"Harrison Phillips",
+    "Comb":18,
+    "Asst":7,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Efe Obada",
+    "Comb":18,
+    "Asst":8,
+    "Solo":9,
+    "Sck":5.5
+  },
+  {
+    "Player":"Anthony Nelson",
+    "Comb":18,
+    "Asst":7,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"Austin Johnson",
+    "Comb":18,
+    "Asst":10,
+    "Solo":7,
+    "Sck":1.0
+  },
+  {
+    "Player":"Michael Jacquet",
+    "Comb":18,
+    "Asst":6,
+    "Solo":12,
+    "Sck":1.0
+  },
+  {
+    "Player":"Marquis Haynes",
+    "Comb":18,
+    "Asst":3,
+    "Solo":15,
+    "Sck":4.0
+  },
+  {
+    "Player":"D.J. Hayden",
+    "Comb":18,
+    "Asst":3,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"Davontae Harris",
+    "Comb":18,
+    "Asst":1,
+    "Solo":17,
+    "Sck":0.0
+  },
+  {
+    "Player":"Charles Harris",
+    "Comb":18,
+    "Asst":10,
+    "Solo":8,
+    "Sck":3.0
+  },
+  {
+    "Player":"Greg Gaines",
+    "Comb":18,
+    "Asst":9,
+    "Solo":8,
+    "Sck":1.5
+  },
+  {
+    "Player":"Will Compton",
+    "Comb":18,
+    "Asst":9,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shilique Calhoun",
+    "Comb":18,
+    "Asst":5,
+    "Solo":11,
+    "Sck":2.0
+  },
+  {
+    "Player":"Vernon Butler",
+    "Comb":18,
+    "Asst":9,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taven Bryan",
+    "Comb":18,
+    "Asst":8,
+    "Solo":8,
+    "Sck":0.5
+  },
+  {
+    "Player":"Dakota Allen",
+    "Comb":18,
+    "Asst":6,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephen Weatherly",
+    "Comb":17,
+    "Asst":10,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Armani Watts",
+    "Comb":17,
+    "Asst":2,
+    "Solo":15,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kindle Vildor",
+    "Comb":17,
+    "Asst":4,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nathan Shepherd",
+    "Comb":17,
+    "Asst":9,
+    "Solo":6,
+    "Sck":2.5
+  },
+  {
+    "Player":"Charles Omenihu",
+    "Comb":17,
+    "Asst":6,
+    "Solo":11,
+    "Sck":4.0
+  },
+  {
+    "Player":"Ryan Kerrigan",
+    "Comb":17,
+    "Asst":8,
+    "Solo":9,
+    "Sck":5.5
+  },
+  {
+    "Player":"Dion Jordan",
+    "Comb":17,
+    "Asst":6,
+    "Solo":10,
+    "Sck":3.0
+  },
+  {
+    "Player":"Harrison Hand",
+    "Comb":17,
+    "Asst":3,
+    "Solo":14,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Ellis",
+    "Comb":17,
+    "Asst":11,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mario Edwards",
+    "Comb":17,
+    "Asst":6,
+    "Solo":10,
+    "Sck":4.0
+  },
+  {
+    "Player":"Mike Daniels",
+    "Comb":17,
+    "Asst":10,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Carter Coughlin",
+    "Comb":17,
+    "Asst":4,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"Austin Bryant",
+    "Comb":17,
+    "Asst":5,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Amani Bledsoe",
+    "Comb":17,
+    "Asst":11,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shawn Williams",
+    "Comb":16,
+    "Asst":4,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jihad Ward",
+    "Comb":16,
+    "Asst":9,
+    "Solo":7,
+    "Sck":3.0
+  },
+  {
+    "Player":"Michael Thomas",
+    "Comb":16,
+    "Asst":8,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Duke Shelley",
+    "Comb":16,
+    "Asst":7,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Scott",
+    "Comb":16,
+    "Asst":5,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Malcolm Roach",
+    "Comb":16,
+    "Asst":9,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Domata Peko Sr.",
+    "Comb":16,
+    "Asst":10,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alex Okafor",
+    "Comb":16,
+    "Asst":7,
+    "Solo":9,
+    "Sck":3.0
+  },
+  {
+    "Player":"Joshua Kalu",
+    "Comb":16,
+    "Asst":4,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bryce Huff",
+    "Comb":16,
+    "Asst":4,
+    "Solo":10,
+    "Sck":2.0
+  },
+  {
+    "Player":"Davon Godchaux",
+    "Comb":16,
+    "Asst":6,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dennis Gardeck",
+    "Comb":16,
+    "Asst":2,
+    "Solo":14,
+    "Sck":7.0
+  },
+  {
+    "Player":"Kristian Fulton",
+    "Comb":16,
+    "Asst":2,
+    "Solo":12,
+    "Sck":1.0
+  },
+  {
+    "Player":"Brandon Facyson",
+    "Comb":16,
+    "Asst":3,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Vinny Curry",
+    "Comb":16,
+    "Asst":4,
+    "Solo":11,
+    "Sck":3.0
+  },
+  {
+    "Player":"Ola Adeniyi",
+    "Comb":16,
+    "Asst":5,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevin Strong",
+    "Comb":15,
+    "Asst":5,
+    "Solo":8,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tye Smith",
+    "Comb":15,
+    "Asst":4,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Edmond Robinson",
+    "Comb":15,
+    "Asst":7,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Purcell",
+    "Comb":15,
+    "Asst":5,
+    "Solo":8,
+    "Sck":1.0
+  },
+  {
+    "Player":"Corey Peters",
+    "Comb":15,
+    "Asst":5,
+    "Solo":10,
+    "Sck":2.0
+  },
+  {
+    "Player":"Kevin Minter",
+    "Comb":15,
+    "Asst":5,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Arden Key",
+    "Comb":15,
+    "Asst":5,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dane Jackson",
+    "Comb":15,
+    "Asst":2,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"DeAndre Houston-Carson",
+    "Comb":15,
+    "Asst":3,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rudy Ford",
+    "Comb":15,
+    "Asst":2,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Elliott",
+    "Comb":15,
+    "Asst":9,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Maliek Collins",
+    "Comb":15,
+    "Asst":7,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lorenzo Carter",
+    "Comb":15,
+    "Asst":4,
+    "Solo":10,
+    "Sck":1.0
+  },
+  {
+    "Player":"Shaun Bradley",
+    "Comb":15,
+    "Asst":6,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Allen Bailey",
+    "Comb":15,
+    "Asst":7,
+    "Solo":7,
+    "Sck":1.5
+  },
+  {
+    "Player":"Josh Woods",
+    "Comb":14,
+    "Asst":4,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tramon Williams",
+    "Comb":14,
+    "Asst":4,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zeke Turner",
+    "Comb":14,
+    "Asst":10,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Swearinger",
+    "Comb":14,
+    "Asst":1,
+    "Solo":13,
+    "Sck":0.0
+  },
+  {
+    "Player":"Patrick Robinson",
+    "Comb":14,
+    "Asst":3,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Keisean Nixon",
+    "Comb":14,
+    "Asst":5,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Hardy Nickerson",
+    "Comb":14,
+    "Asst":5,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darryl Johnson",
+    "Comb":14,
+    "Asst":3,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"Khaleke Hudson",
+    "Comb":14,
+    "Asst":6,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Myles Hartsfield",
+    "Comb":14,
+    "Asst":5,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darius Harris",
+    "Comb":14,
+    "Asst":3,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Carl Granderson",
+    "Comb":14,
+    "Asst":3,
+    "Solo":10,
+    "Sck":5.0
+  },
+  {
+    "Player":"A.J. Epenesa",
+    "Comb":14,
+    "Asst":3,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"Nick Dzubnar",
+    "Comb":14,
+    "Asst":7,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyrone Crawford",
+    "Comb":14,
+    "Asst":7,
+    "Solo":7,
+    "Sck":2.0
+  },
+  {
+    "Player":"Jurrell Casey",
+    "Comb":14,
+    "Asst":7,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ross Blacklock",
+    "Comb":14,
+    "Asst":4,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Bethel",
+    "Comb":14,
+    "Asst":1,
+    "Solo":12,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Bellore",
+    "Comb":14,
+    "Asst":3,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Wilson",
+    "Comb":13,
+    "Asst":4,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Willis",
+    "Comb":13,
+    "Asst":6,
+    "Solo":5,
+    "Sck":2.5
+  },
+  {
+    "Player":"Tedric Thompson",
+    "Comb":13,
+    "Asst":2,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Vernon Scott",
+    "Comb":13,
+    "Asst":2,
+    "Solo":11,
+    "Sck":1.0
+  },
+  {
+    "Player":"LaRoy Reynolds",
+    "Comb":13,
+    "Asst":5,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"John Reid",
+    "Comb":13,
+    "Asst":2,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Siran Neal",
+    "Comb":13,
+    "Asst":4,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Lewis",
+    "Comb":13,
+    "Asst":2,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah Johnson",
+    "Comb":13,
+    "Asst":6,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Noah Igbinoghene",
+    "Comb":13,
+    "Asst":2,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Hughes",
+    "Comb":13,
+    "Asst":4,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaylinn Hawkins",
+    "Comb":13,
+    "Asst":5,
+    "Solo":8,
+    "Sck":0.5
+  },
+  {
+    "Player":"Daniel Ekuale",
+    "Comb":13,
+    "Asst":7,
+    "Solo":6,
+    "Sck":1.0
+  },
+  {
+    "Player":"Adrian Colbert",
+    "Comb":13,
+    "Asst":4,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tony Brown",
+    "Comb":13,
+    "Asst":6,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Allen",
+    "Comb":13,
+    "Asst":6,
+    "Solo":6,
+    "Sck":2.5
+  },
+  {
+    "Player":"Kyle Wilber",
+    "Comb":12,
+    "Asst":5,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nsimba Webster",
+    "Comb":12,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Charles Washington",
+    "Comb":12,
+    "Asst":5,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Vincent Taylor",
+    "Comb":12,
+    "Asst":3,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taylor Stallworth",
+    "Comb":12,
+    "Asst":7,
+    "Solo":4,
+    "Sck":0.5
+  },
+  {
+    "Player":"A'Shawn Robinson",
+    "Comb":12,
+    "Asst":6,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Obo Okoronkwo",
+    "Comb":12,
+    "Asst":4,
+    "Solo":7,
+    "Sck":1.0
+  },
+  {
+    "Player":"Sherrick McManis",
+    "Comb":12,
+    "Asst":1,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Blake Lynch",
+    "Comb":12,
+    "Asst":4,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Austin Larkin",
+    "Comb":12,
+    "Asst":7,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Miles Killebrew",
+    "Comb":12,
+    "Asst":2,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Adoree' Jackson",
+    "Comb":12,
+    "Asst":3,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joel Iyiegbuniwe",
+    "Comb":12,
+    "Asst":3,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Margus Hunt",
+    "Comb":12,
+    "Asst":3,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"Antonio Hamilton",
+    "Comb":12,
+    "Asst":3,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nate Hairston",
+    "Comb":12,
+    "Asst":2,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Ford",
+    "Comb":12,
+    "Asst":3,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sean Davis",
+    "Comb":12,
+    "Asst":1,
+    "Solo":11,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Copeland",
+    "Comb":12,
+    "Asst":6,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Adrian Clayborn",
+    "Comb":12,
+    "Asst":6,
+    "Solo":6,
+    "Sck":3.5
+  },
+  {
+    "Player":"Myles Bryant",
+    "Comb":12,
+    "Asst":3,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cameron Brown",
+    "Comb":12,
+    "Asst":4,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zack Baun",
+    "Comb":12,
+    "Asst":5,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Genard Avery",
+    "Comb":12,
+    "Asst":6,
+    "Solo":5,
+    "Sck":1.5
+  },
+  {
+    "Player":"Quincy Williams",
+    "Comb":11,
+    "Asst":6,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kentavius Street",
+    "Comb":11,
+    "Asst":6,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josiah Scott",
+    "Comb":11,
+    "Asst":1,
+    "Solo":10,
+    "Sck":0.0
+  },
+  {
+    "Player":"Hassan Ridgeway",
+    "Comb":11,
+    "Asst":2,
+    "Solo":9,
+    "Sck":1.0
+  },
+  {
+    "Player":"Randy Ramsey",
+    "Comb":11,
+    "Asst":6,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Phillips",
+    "Comb":11,
+    "Asst":4,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Phillips",
+    "Comb":11,
+    "Asst":1,
+    "Solo":10,
+    "Sck":2.0
+  },
+  {
+    "Player":"Dare Ogunbowale",
+    "Comb":11,
+    "Asst":2,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chandler Jones",
+    "Comb":11,
+    "Asst":6,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Trysten Hill",
+    "Comb":11,
+    "Asst":5,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nate Hall",
+    "Comb":11,
+    "Asst":5,
+    "Solo":6,
+    "Sck":2.0
+  },
+  {
+    "Player":"Leki Fotu",
+    "Comb":11,
+    "Asst":5,
+    "Solo":6,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jordan Evans",
+    "Comb":11,
+    "Asst":6,
+    "Solo":5,
+    "Sck":2.0
+  },
+  {
+    "Player":"Mike Edwards",
+    "Comb":11,
+    "Asst":5,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ross Cockrell",
+    "Comb":11,
+    "Asst":2,
+    "Solo":9,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Chickillo",
+    "Comb":11,
+    "Asst":4,
+    "Solo":7,
+    "Sck":1.0
+  },
+  {
+    "Player":"Isaiah Buggs",
+    "Comb":11,
+    "Asst":4,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tashawn Bower",
+    "Comb":11,
+    "Asst":2,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Grayland Arnold",
+    "Comb":11,
+    "Asst":5,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Montravius Adams",
+    "Comb":11,
+    "Asst":5,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kendal Vickers",
+    "Comb":10,
+    "Asst":5,
+    "Solo":5,
+    "Sck":2.0
+  },
+  {
+    "Player":"Vita Vea",
+    "Comb":10,
+    "Asst":4,
+    "Solo":6,
+    "Sck":2.0
+  },
+  {
+    "Player":"Nick Thurman",
+    "Comb":10,
+    "Asst":4,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Davion Taylor",
+    "Comb":10,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Julian Stanford",
+    "Comb":10,
+    "Asst":6,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Smith-Williams",
+    "Comb":10,
+    "Asst":2,
+    "Solo":7,
+    "Sck":0.5
+  },
+  {
+    "Player":"Anthony Rush",
+    "Comb":10,
+    "Asst":8,
+    "Solo":2,
+    "Sck":1.0
+  },
+  {
+    "Player":"Roy Robertson-Harris",
+    "Comb":10,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jalen Reeves-Maybin",
+    "Comb":10,
+    "Asst":1,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Pierre",
+    "Comb":10,
+    "Asst":3,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Elijah Lee",
+    "Comb":10,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dallin Leavitt",
+    "Comb":10,
+    "Asst":6,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Melvin Ingram",
+    "Comb":10,
+    "Asst":5,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ka'dar Hollman",
+    "Comb":10,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justice Hill",
+    "Comb":10,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lano Hill",
+    "Comb":10,
+    "Asst":2,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Hamilton",
+    "Comb":10,
+    "Asst":7,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rasheem Green",
+    "Comb":10,
+    "Asst":3,
+    "Solo":6,
+    "Sck":2.0
+  },
+  {
+    "Player":"Clayton Fejedelem",
+    "Comb":10,
+    "Asst":4,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matt Dickerson",
+    "Comb":10,
+    "Asst":6,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Dangerfield",
+    "Comb":10,
+    "Asst":1,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cethan Carter",
+    "Comb":10,
+    "Asst":4,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Luq Barcoo",
+    "Comb":10,
+    "Asst":3,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Blidi Wreh-Wilson",
+    "Comb":9,
+    "Asst":3,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sylvester Williams",
+    "Comb":9,
+    "Asst":5,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Uche",
+    "Comb":9,
+    "Asst":2,
+    "Solo":6,
+    "Sck":1.0
+  },
+  {
+    "Player":"Akeem Spence",
+    "Comb":9,
+    "Asst":6,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"E.J. Speed",
+    "Comb":9,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andre Smith",
+    "Comb":9,
+    "Asst":1,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trent Sherfield",
+    "Comb":9,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Derick Roberson",
+    "Comb":9,
+    "Asst":4,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Derek Rivers",
+    "Comb":9,
+    "Asst":6,
+    "Solo":3,
+    "Sck":3.0
+  },
+  {
+    "Player":"Dorian O'Daniel",
+    "Comb":9,
+    "Asst":2,
+    "Solo":7,
+    "Sck":1.0
+  },
+  {
+    "Player":"Calvin Munson",
+    "Comb":9,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Fabian Moreau",
+    "Comb":9,
+    "Asst":2,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damontre Moore",
+    "Comb":9,
+    "Asst":3,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Bryan Mone",
+    "Comb":9,
+    "Asst":6,
+    "Solo":3,
+    "Sck":0.5
+  },
+  {
+    "Player":"Doug Middleton",
+    "Comb":9,
+    "Asst":5,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Metellus",
+    "Comb":9,
+    "Asst":1,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.Y. McGill",
+    "Comb":9,
+    "Asst":6,
+    "Solo":3,
+    "Sck":0.5
+  },
+  {
+    "Player":"Rashard Lawrence",
+    "Comb":9,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damon Harrison",
+    "Comb":9,
+    "Asst":6,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaquem Griffin",
+    "Comb":9,
+    "Asst":3,
+    "Solo":6,
+    "Sck":1.0
+  },
+  {
+    "Player":"C.J. Goodwin",
+    "Comb":9,
+    "Asst":3,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Glasgow",
+    "Comb":9,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Demetrius Flannigan-Fowles",
+    "Comb":9,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kylie Fitts",
+    "Comb":9,
+    "Asst":4,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sam Eguavoen",
+    "Comb":9,
+    "Asst":4,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cody Davis",
+    "Comb":9,
+    "Asst":5,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kamalei Correa",
+    "Comb":9,
+    "Asst":4,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephen Carlson",
+    "Comb":9,
+    "Asst":2,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Anderson",
+    "Comb":9,
+    "Asst":3,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Eddie Yarbrough",
+    "Comb":8,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Wormley",
+    "Comb":8,
+    "Asst":5,
+    "Solo":2,
+    "Sck":1.0
+  },
+  {
+    "Player":"Derek Watt",
+    "Comb":8,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaylen Watkins",
+    "Comb":8,
+    "Asst":0,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Keith Smith",
+    "Comb":8,
+    "Asst":6,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevon Seymour",
+    "Comb":8,
+    "Asst":2,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daniel Ross",
+    "Comb":8,
+    "Asst":4,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Steven Parker",
+    "Comb":8,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Parnell Motley",
+    "Comb":8,
+    "Asst":3,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Takkarist McKinley",
+    "Comb":8,
+    "Asst":3,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Kahlil McKenzie",
+    "Comb":8,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dan McCullers",
+    "Comb":8,
+    "Asst":5,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"BoPete Keyes",
+    "Comb":8,
+    "Asst":1,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Abry Jones",
+    "Comb":8,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Hardee",
+    "Comb":8,
+    "Asst":2,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.T. Gray",
+    "Comb":8,
+    "Asst":0,
+    "Solo":8,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nate Ebner",
+    "Comb":8,
+    "Asst":2,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Duke Dawson",
+    "Comb":8,
+    "Asst":6,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marlon Davidson",
+    "Comb":8,
+    "Asst":6,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ben Burr-Kirven",
+    "Comb":8,
+    "Asst":1,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Terrell Burgess",
+    "Comb":8,
+    "Asst":1,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonathan Bullard",
+    "Comb":8,
+    "Asst":6,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marquise Blair",
+    "Comb":8,
+    "Asst":3,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Henry Black",
+    "Comb":8,
+    "Asst":2,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daren Bates",
+    "Comb":8,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"McTelvin Agim",
+    "Comb":8,
+    "Asst":6,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Watson",
+    "Comb":7,
+    "Asst":3,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jonathan Ward",
+    "Comb":7,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stantley Thomas-Oliver",
+    "Comb":7,
+    "Asst":1,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matthew Slater",
+    "Comb":7,
+    "Asst":4,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah Rodgers",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Craig Robertson",
+    "Comb":7,
+    "Asst":0,
+    "Solo":7,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dontari Poe",
+    "Comb":7,
+    "Asst":4,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Elijhaa Penny",
+    "Comb":7,
+    "Asst":5,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kareem Orr",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"C.J. Moore",
+    "Comb":7,
+    "Asst":3,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"David Long",
+    "Comb":7,
+    "Asst":1,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cam Lewis",
+    "Comb":7,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Levine",
+    "Comb":7,
+    "Asst":3,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matthew Ioannidis",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":1.5
+  },
+  {
+    "Player":"Malik Hooker",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alijah Holder",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"C.J. Ham",
+    "Comb":7,
+    "Asst":1,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alohi Gilman",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jay Elliott",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":1.0
+  },
+  {
+    "Player":"Emeke Egbule",
+    "Comb":7,
+    "Asst":3,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ashton Dulin",
+    "Comb":7,
+    "Asst":3,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tae Davis",
+    "Comb":7,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taco Charlton",
+    "Comb":7,
+    "Asst":3,
+    "Solo":4,
+    "Sck":2.0
+  },
+  {
+    "Player":"Derek Carrier",
+    "Comb":7,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jason Cabinda",
+    "Comb":7,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"B.J. Bello",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Vic Beasley",
+    "Comb":7,
+    "Asst":2,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Billy Winn",
+    "Comb":6,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ken Webster",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Walker",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Derrek Tuszka",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jeremy Sprinkle",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Benny Snell",
+    "Comb":6,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cam Sims",
+    "Comb":6,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kawann Short",
+    "Comb":6,
+    "Asst":3,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaquille Quarterman",
+    "Comb":6,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevin Peterson",
+    "Comb":6,
+    "Asst":3,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trey Marshall",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Aaron Lynch",
+    "Comb":6,
+    "Asst":1,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Rick Lovato",
+    "Comb":6,
+    "Asst":5,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Niko Lalos",
+    "Comb":6,
+    "Asst":4,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taiwan Jones",
+    "Comb":6,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Robert Jackson",
+    "Comb":6,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"George Iloka",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brian Hill",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tae Hayes",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Hall",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Grant Haley",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cam Gill",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Luke Gifford",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kavon Frazier",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Thomas Davis",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Carlos Davis",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Connelly",
+    "Comb":6,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dylan Cole",
+    "Comb":6,
+    "Asst":3,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Corey Clement",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chase Claypool",
+    "Comb":6,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dan Chisena",
+    "Comb":6,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Blake Cashman",
+    "Comb":6,
+    "Asst":2,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trenton Cannon",
+    "Comb":6,
+    "Asst":1,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Bosa",
+    "Comb":6,
+    "Asst":3,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Terrell Bonds",
+    "Comb":6,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Francis Bernard",
+    "Comb":6,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Barr",
+    "Comb":6,
+    "Asst":0,
+    "Solo":6,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ben Banogu",
+    "Comb":6,
+    "Asst":4,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jabari Zuniga",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Oshane Ximines",
+    "Comb":5,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Raequan Williams",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":1.0
+  },
+  {
+    "Player":"Kristian Welch",
+    "Comb":5,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Watson",
+    "Comb":5,
+    "Asst":0,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tim Ward",
+    "Comb":5,
+    "Asst":0,
+    "Solo":5,
+    "Sck":1.0
+  },
+  {
+    "Player":"Teair Tart",
+    "Comb":5,
+    "Asst":3,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Smith",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Tuzar Skipper",
+    "Comb":5,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Caraun Reid",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Gabe Nabers",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alexander Myres",
+    "Comb":5,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Larrell Murchison",
+    "Comb":5,
+    "Asst":4,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Moore",
+    "Comb":5,
+    "Asst":0,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Henry Mondeaux",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Herb Miller",
+    "Comb":5,
+    "Asst":0,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Mauro",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":1.0
+  },
+  {
+    "Player":"Terrell Lewis",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":2.0
+  },
+  {
+    "Player":"Malik Jefferson",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Jackson",
+    "Comb":5,
+    "Asst":3,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bruce Irvin",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.P. Holtz",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Frank Herron",
+    "Comb":5,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Thomas Hennessy",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Penny Hart",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trent Harris",
+    "Comb":5,
+    "Asst":4,
+    "Solo":1,
+    "Sck":0.5
+  },
+  {
+    "Player":"Demetrius Harris",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Madre Harper",
+    "Comb":5,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Griffin",
+    "Comb":5,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trevis Gipson",
+    "Comb":5,
+    "Asst":4,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ulysees Gilbert",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonathan Garvin",
+    "Comb":5,
+    "Asst":3,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kaden Elliss",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Riley Dixon",
+    "Comb":5,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nathan Cottrell",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamal Carter",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deon Bush",
+    "Comb":5,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daniel Brown",
+    "Comb":5,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andrew Brown",
+    "Comb":5,
+    "Asst":3,
+    "Solo":2,
+    "Sck":2.0
+  },
+  {
+    "Player":"Tramaine Brock",
+    "Comb":5,
+    "Asst":0,
+    "Solo":5,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Boone",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alex Barrett",
+    "Comb":5,
+    "Asst":5,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deandre Baker",
+    "Comb":5,
+    "Asst":1,
+    "Solo":4,
+    "Sck":1.0
+  },
+  {
+    "Player":"Eli Ankou",
+    "Comb":5,
+    "Asst":4,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephen Anderson",
+    "Comb":5,
+    "Asst":2,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mitch Wishnowsky",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jace Whittaker",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Javin White",
+    "Comb":4,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Westbrook-Ikhine",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kemoko Turay",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":1.0
+  },
+  {
+    "Player":"Levine Toilolo",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Logan Thomas",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Malik Taylor",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Smith",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deadrin Senat",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Amik Robertson",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Richards",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brooks Reed",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":1.0
+  },
+  {
+    "Player":"Jachai Polite",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":1.0
+  },
+  {
+    "Player":"Breshad Perriman",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cordarrelle Patterson",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Pat O'Connor",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":1.0
+  },
+  {
+    "Player":"Ryan Nall",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tony McRae",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cole Mazza",
+    "Comb":4,
+    "Asst":3,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin March",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Braden Mann",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cameron Malveaux",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"John Lovett",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ty Long",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Corey Liuget",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":1.0
+  },
+  {
+    "Player":"Nick Keizer",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Danny Johnson",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaquan Johnson",
+    "Comb":4,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jerry Jeudy",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andy Janovich",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"David Irving",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jakeem Grant",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zach Ertz",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rico Dowdle",
+    "Comb":4,
+    "Asst":3,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jalen Davis",
+    "Comb":4,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Gabriel Davis",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darrion Daniels",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Xavier Crawford",
+    "Comb":4,
+    "Asst":2,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandin Cooks",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cortez Broughton",
+    "Comb":4,
+    "Asst":4,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chad Beebe",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Eli Apple",
+    "Comb":4,
+    "Asst":1,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamal Agnew",
+    "Comb":4,
+    "Asst":0,
+    "Solo":4,
+    "Sck":0.0
+  },
+  {
+    "Player":"Olamide Zaccheaus",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Winchester",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trevor Williams",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dee Virgin",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marquez Valdes-Scantling",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevin Toliver",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jason Strowbridge",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Luke Stocker",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Linden Stephens",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Vyncint Smith",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rashad Smith",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Saivion Smith",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tanzel Smart",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dalton Schultz",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Khalen Saunders",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Eric Saubert",
+    "Comb":3,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stanford Samuels III",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Luke Rhodes",
+    "Comb":3,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Reed",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kalif Raymond",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damarious Randall",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevin Rader",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Senorise Perry",
+    "Comb":3,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Samaje Perine",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Natrez Patrick",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"James O'Shaughnessy",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"K.J. Osborn",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Julian Okwara",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alec Ogletree",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jared Norris",
+    "Comb":3,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Johnny Mundt",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stanley Morgan",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Milton",
+    "Comb":3,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"DK Metcalf",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Terry McLaurin",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.D. McKissic",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jerick McKinnon",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Patrick Mahomes",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah Mack",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Lynch",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":1.0
+  },
+  {
+    "Player":"P.J. Locke",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jeremiah Ledbetter",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":1.0
+  },
+  {
+    "Player":"Cooper Kupp",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Kunaszyk",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Kemp",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Xavier Jones",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Jones",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Van Jefferson",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Leon Jacobs",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Jackson",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonah Jackson",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"JuJu Hughes",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"DeAndre Hopkins",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Austin Hooper",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Travis Homer",
+    "Comb":3,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jacob Hollister",
+    "Comb":3,
+    "Asst":3,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mack Hollins",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nate Holley",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"KhaDarel Hodge",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tee Higgins",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rashard Higgins",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Herbert",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Demone Harris",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Woodrow Hamilton",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jalen Guyton",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaeden Graham",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Glasgow",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Graham Glasgow",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cullen Gillaspia",
+    "Comb":3,
+    "Asst":3,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Gilchrist",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Royce Freeman",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Foster",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dee Ford",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matt Feiler",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Evan Engram",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Emanuel",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Eifert",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Davis",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Carl Davis",
+    "Comb":3,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jeremy Cox",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kirk Cousins",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Blake Countess",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Amari Cooper",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jared Cook",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Austin Calitro",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deante Burton",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Burgess",
+    "Comb":3,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.J. Brunson",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Malcolm Brown",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Miles Boykin",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devontae Booker",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Garett Bolles",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jacob Bobenmoyer",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Khari Blasingame",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Christian Blake",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Peyton Barber",
+    "Comb":3,
+    "Asst":2,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brian Allen",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Aiyuk",
+    "Comb":3,
+    "Asst":0,
+    "Solo":3,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Adams",
+    "Comb":3,
+    "Asst":1,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah Wright",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Robert Woods",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Charlie Woerner",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rob Windsor",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jeff Wilson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Preston Williams",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamaal Williams",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daryl Williams",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Wilkins",
+    "Comb":2,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dwayne Washington",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Broderick Washington",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darren Waller",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zach Triner",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tavon Young",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Casey Toohill",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darwin Thompson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Solomon Thomas",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Thomas",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Pita Taumoepenu",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Golden Tate",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cordrea Tankersley",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Freddie Swain",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Equanimeous St. Brown",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tremon Smith",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Terrance Smith",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joey Slye",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sterling Shepard",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Laviska Shenault Jr.",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Shatley",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Emmanuel Sanders",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Miles Sanders",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaylen Samuels",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Curtis Samuel",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Richard Rodgers",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dalton Risner",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.R. Reed",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Wyatt Ray",
+    "Comb":2,
+    "Asst":0,
+    "Solo":1,
+    "Sck":1.0
+  },
+  {
+    "Player":"Byron Pringle",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tony Pollard",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Michael Pittman",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Artavis Pierce",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taybor Pepper",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tim Patrick",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zach Pascal",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devine Ozigbo",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nate Orchard",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brian O'Neill",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Gunner Olszewski",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jason Myers",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Morgan Moses",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Moore",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Denzel Mims",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bruce Miller",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Miller",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jaydon Mickens",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jakobi Meyers",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Christian McCaffrey",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ross Matiscik",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dylan Mabin",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Love",
+    "Comb":2,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jessie Lemonier",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"CeeDee Lamb",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alvin Kamara",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Peter Kalambayi",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Datone Jones",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Benito Jones",
+    "Comb":2,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Johnson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Diontae Johnson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Timmy Jernigan",
+    "Comb":2,
+    "Asst":2,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Craig James",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lamar Jackson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"DeSean Jackson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dontrelle Inman",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Buddy Howell",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.Y. Hilton",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dontrell Hilliard",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"John Hightower",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"JaMycal Hasty",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marvin Hall",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Melvin Gordon",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Denzelle Good",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Godwin",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Reggie Gilliam",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Troy Fumagalli",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mark Fields",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Reid Ferguson",
+    "Comb":2,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Blake Ferguson",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Julian Edelman",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ross Dwelley",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Khalil Dorsey",
+    "Comb":2,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Will Dissly",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sheldon Day",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Khalil Davis",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"DeeJay Dallas",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dominique Dafney",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Johnathan Cyprien",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Morgan Cox",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Austin Corbett",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Conner",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Conklin",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matt Cole",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kameron Cline",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyrie Cleveland",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jack Cichy",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cole Christiansen",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kameron Canaday",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trey Burton",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Pharaoh Brown",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Noah Brown",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marquise Brown",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Antoine Brooks Jr.",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matt Breida",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Brailford",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Boyd",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Lynn Bowden",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"C.J. Board",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"LeVante Bellamy",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jake Bailey",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Bachie",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mark Andrews",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Freedom Akinmoladun",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matthew Adams",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andrew Adams",
+    "Comb":2,
+    "Asst":1,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ameer Abdullah",
+    "Comb":2,
+    "Asst":0,
+    "Solo":2,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah Zuber",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kevin Zeitler",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andrew Wylie",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tristan Wirfs",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brian Winters",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Javon Wims",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Russell Wilson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Quincy Wilson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ced Wilson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trent Williams",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jarren Williams",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Connor Williams",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Williams",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Williams",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"James White",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Westry",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jon Weeks",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Webb",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tress Way",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deshaun Watson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sammy Watkins",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Washington",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Greg Ward",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Reggie Walker",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Greg Van Roten",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Vannett",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Halapoulivaati Vaitai",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Malik Turner",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Tucker",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mitchell Trubisky",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Adam Trautman",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Drue Tranquill",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Eric Tomlinson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Thuney",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Neiko Thorpe",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Thomas",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ian Thomas",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Adam Thielen",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonathan Taylor",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tua Tagovailoa",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.R. Sweezy",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Geoff Swaim",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Courtland Sutton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Sundberg",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephen Sullivan",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Terence Steele",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Quinton Spain",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jonnu Smith",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jeff Smith",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ito Smith",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Donovan Smith",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Irv Smith",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kaden Smith",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darius Slayton",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dan Skipper",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devin Singletary",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Steven Sims",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Sherman",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brady Sheldon",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Boston Scott",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mason Schreck",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Patrick Scales",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mohamed Sanu",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cairo Santos",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deebo Samuel",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Drew Sample",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dru Samia",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ty Sambrailo",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Rudolph",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ben Roethlisberger",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Reggie Robinson II",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kenny Robinson",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Robinson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Demarcus Robinson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cam Robinson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Allen Robinson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Calvin Ridley",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Theo Riddick",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Patrick Ricard",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Reynolds",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Hunter Renfrow",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Reed",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jalen Reagor",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Frank Ragnow",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Pugh",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bobby Price",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Powell",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bradley Pinion",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"La'Mical Perine",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andrus Peat",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Parker",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Walter Palmore",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Ostman",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mark Nzeocha",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Quenton Nelson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Matt Nelson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kyle Nelson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kai Nacua",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Netane Muti",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Don Muhlbach",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taylor Moton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Foster Moreau",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darnell Mooney",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"David Montgomery",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jovante Moffatt",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Mixon",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Steven Mitchell",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Scott Miller",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Miller",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kolton Miller",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon McManus",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Colton McKivitz",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sean McKeon",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Isaiah McKenzie",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike McGlinchey",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kaleb McGary",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Conor McDermott",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Colt McCoy",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ray-Ray McCloud",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jared Mayden",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bobby Massie",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Shaq Mason",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ali Marpet",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marcus Mariota",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jordan Mailata",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cole Luke",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Looney",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Lockett",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Drew Lock",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Lindstrom",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Phillip Lindsay",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dion Lewis",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damien Lewis",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darron Lee",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devaroe Lawrence",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Patrick Laird",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Deon Lacey",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Kroft",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Casey Kreiter",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Younghoe Koo",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Knight",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cole Kmet",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joshua Kelley",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jason Kelce",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dalton Keene",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marvin Jones",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Keandre Jones",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Daniel Jones",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ben Jones",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Clay Johnston",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyron Johnson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"D'Ernest Johnson",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"David Johnson",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bisi Johnson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Fred Johnson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ty Johnson",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Elgton Jenkins",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Jefferson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.J. Jansen",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Richie James",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Gabe Jackson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mike Jackson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bennett Jackson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Izzo",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andy Isabella",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Alec Ingold",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Hayden Hurst",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kareem Hunt",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Charley Hughlett",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rodney Hudson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Trey Hopkins",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dustin Hopkins",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"T.J. Hockenson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nyheim Hines",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyreek Hill",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Taysom Hill",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Higbee",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Justin Herron",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Hunter Henry",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.C. Hassenauer",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"J.T. Hassell",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bobby Hart",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"N'Keal Harry",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Harris",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Clark Harris",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mecole Hardman",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Harris",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"K.J. Hamler",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"DaeSean Hamilton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Groy",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rob Gronkowski",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Virgil Green",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jimmy Graham",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stephen Gostkowski",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jared Goff",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Antonio Gibson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joe Gaziano",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Gates",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Graham Gano",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Wayne Gallman",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Zach Fulton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Will Fuller",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jack Fox",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bennie Fowler",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Robert Foster",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kai Forbath",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cameron Fleming",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ryan Fitzpatrick",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Larry Fitzgerald",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Firkser",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sharif Finch",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jon Feliciano",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Gerald Everett",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darrynton Evans",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jermaine Eluemunor",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jake Elliott",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ezekiel Elliott",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Austin Ekeler",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Clyde Edwards-Helaire",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Gus Edwards",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chase Edmonds",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Nick Easton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Devin Duvernay",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jack Driscoll",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kenyan Drake",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dakota Dozier",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamil Douglas",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Michael Dogbe",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":1.0
+  },
+  {
+    "Player":"Stefon Diggs",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Michael Dickson",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Seth DeValve",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Andrew DePaola",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Noah Dawkins",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dion Dawkins",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jesse Davis",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Corey Davis",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Darrell Daniels",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Austin Cutting",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dane Cruikshank",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jamison Crowder",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mason Crosby",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ken Crawley",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Aaron Crawford",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"River Cracraft",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bryan Cox",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marquise Copeland",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Logan Cooke",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Chris Conley",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tevin Coleman",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Keelan Cole",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Randall Cobb",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Omari Cobb",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Geron Christian",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Anthony Chesley",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"D.J. Chark",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Sean Chandler",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Quintez Cephus",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ron'Dell Carter",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Derek Carr",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandon Carr",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"James Carpenter",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"A.J. Cann",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Ibraheim Campbell",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Parris Campbell",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Marquez Callaway",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Antonio Callaway",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Damiere Byrd",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Jake Butt",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Harrison Butker",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Michael Burton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Harrison Bryant",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Brandin Bryant",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Orlando Brown",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"A.J. Brown",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Antonio Brown",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Teddy Bridgewater",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Hunter Bradley",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kendrick Bourne",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Reggie Bonnafon",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Corey Bojorquez",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Joel Bitonio",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Rashod Berry",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Giovani Bernard",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mekhi Becton",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Odell Beckham Jr.",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Cole Beasley",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Bass",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Kenjon Barner",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"David Bakhtiari",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Markus Bailey",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Geno Atkins",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bryan Anger",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Andrews",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Auzoyah Alufohai",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Keenan Allen",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Allen",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Mo Alie-Cox",
+    "Comb":1,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Otaro Alaka",
+    "Comb":1,
+    "Asst":1,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Oday Aboushi",
+    "Comb":1,
+    "Asst":0,
+    "Solo":1,
+    "Sck":0.0
+  },
+  {
+    "Player":"Stefen Wisniewski",
+    "Comb":0,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Dexter Williams",
+    "Comb":0,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Colin Thompson",
+    "Comb":0,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Josh Jacobs",
+    "Comb":0,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Tyler Biadasz",
+    "Comb":0,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  },
+  {
+    "Player":"Bradlee Anae",
+    "Comb":0,
+    "Asst":0,
+    "Solo":0,
+    "Sck":0.0
+  }
+]
