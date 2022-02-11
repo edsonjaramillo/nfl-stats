@@ -1,0 +1,290 @@
+[
+  {
+    "Team":"49ers",
+    "FGM":39,
+    "FG %":95.1,
+    "XPM":28,
+    "XP Pct":93.3,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Bears",
+    "FGM":16,
+    "FG %":72.7,
+    "XPM":26,
+    "XP Pct":92.9,
+    "KRet TD":0,
+    "PRet T":2
+  },
+  {
+    "Team":"Bengals",
+    "FGM":18,
+    "FG %":90.0,
+    "XPM":32,
+    "XP Pct":94.1,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Bills",
+    "FGM":29,
+    "FG %":87.9,
+    "XPM":29,
+    "XP Pct":100.0,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Broncos",
+    "FGM":24,
+    "FG %":75.0,
+    "XPM":27,
+    "XP Pct":100.0,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Browns",
+    "FGM":15,
+    "FG %":75.0,
+    "XPM":25,
+    "XP Pct":96.2,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Buccaneers",
+    "FGM":25,
+    "FG %":73.5,
+    "XPM":28,
+    "XP Pct":90.3,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Cardinals",
+    "FGM":32,
+    "FG %":80.0,
+    "XPM":23,
+    "XP Pct":88.5,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Chargers",
+    "FGM":20,
+    "FG %":66.7,
+    "XPM":37,
+    "XP Pct":88.1,
+    "KRet TD":0,
+    "PRet T":1
+  },
+  {
+    "Team":"Chiefs",
+    "FGM":41,
+    "FG %":91.1,
+    "XPM":40,
+    "XP Pct":100.0,
+    "KRet TD":0,
+    "PRet T":1
+  },
+  {
+    "Team":"Colts",
+    "FGM":29,
+    "FG %":85.3,
+    "XPM":22,
+    "XP Pct":91.7,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Cowboys",
+    "FGM":22,
+    "FG %":75.9,
+    "XPM":36,
+    "XP Pct":92.3,
+    "KRet TD":0,
+    "PRet T":1
+  },
+  {
+    "Team":"Dolphins",
+    "FGM":21,
+    "FG %":91.3,
+    "XPM":26,
+    "XP Pct":89.7,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Eagles",
+    "FGM":29,
+    "FG %":85.3,
+    "XPM":40,
+    "XP Pct":90.9,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Falcons",
+    "FGM":34,
+    "FG %":87.2,
+    "XPM":35,
+    "XP Pct":100.0,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Giants",
+    "FGM":18,
+    "FG %":72.0,
+    "XPM":20,
+    "XP Pct":87.0,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Jaguars",
+    "FGM":30,
+    "FG %":85.7,
+    "XPM":37,
+    "XP Pct":90.2,
+    "KRet TD":0,
+    "PRet T":1
+  },
+  {
+    "Team":"Jets",
+    "FGM":25,
+    "FG %":83.3,
+    "XPM":29,
+    "XP Pct":100.0,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Lions",
+    "FGM":30,
+    "FG %":85.7,
+    "XPM":40,
+    "XP Pct":97.6,
+    "KRet TD":0,
+    "PRet T":2
+  },
+  {
+    "Team":"Packers",
+    "FGM":15,
+    "FG %":78.9,
+    "XPM":33,
+    "XP Pct":94.3,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Panthers",
+    "FGM":29,
+    "FG %":96.7,
+    "XPM":34,
+    "XP Pct":91.9,
+    "KRet TD":1,
+    "PRet T":1
+  },
+  {
+    "Team":"Patriots",
+    "FGM":37,
+    "FG %":92.5,
+    "XPM":45,
+    "XP Pct":95.7,
+    "KRet TD":1,
+    "PRet T":0
+  },
+  {
+    "Team":"Raiders",
+    "FGM":16,
+    "FG %":76.2,
+    "XPM":33,
+    "XP Pct":97.1,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Rams",
+    "FGM":40,
+    "FG %":93.0,
+    "XPM":48,
+    "XP Pct":94.1,
+    "KRet TD":1,
+    "PRet T":0
+  },
+  {
+    "Team":"Ravens",
+    "FGM":34,
+    "FG %":91.9,
+    "XPM":39,
+    "XP Pct":100.0,
+    "KRet TD":1,
+    "PRet T":1
+  },
+  {
+    "Team":"Redskins",
+    "FGM":24,
+    "FG %":85.7,
+    "XPM":36,
+    "XP Pct":92.3,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Saints",
+    "FGM":31,
+    "FG %":86.1,
+    "XPM":47,
+    "XP Pct":94.0,
+    "KRet TD":1,
+    "PRet T":0
+  },
+  {
+    "Team":"Seahawks",
+    "FGM":21,
+    "FG %":72.4,
+    "XPM":37,
+    "XP Pct":97.4,
+    "KRet TD":1,
+    "PRet T":0
+  },
+  {
+    "Team":"Steelers",
+    "FGM":35,
+    "FG %":92.1,
+    "XPM":37,
+    "XP Pct":94.9,
+    "KRet TD":1,
+    "PRet T":0
+  },
+  {
+    "Team":"Texans",
+    "FGM":20,
+    "FG %":80.0,
+    "XPM":32,
+    "XP Pct":91.4,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Titans",
+    "FGM":35,
+    "FG %":83.3,
+    "XPM":31,
+    "XP Pct":93.9,
+    "KRet TD":0,
+    "PRet T":0
+  },
+  {
+    "Team":"Vikings",
+    "FGM":32,
+    "FG %":84.2,
+    "XPM":34,
+    "XP Pct":87.2,
+    "KRet TD":0,
+    "PRet T":0
+  }
+]
