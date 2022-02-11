@@ -1,0 +1,1694 @@
+[
+  {
+    "Player":"T.J. Watt",
+    "FF":8,
+    "FR":4,
+    "FR TD":0
+  },
+  {
+    "Player":"Chandler Jones",
+    "FF":8,
+    "FR":3,
+    "FR TD":0
+  },
+  {
+    "Player":"Shaquil Barrett",
+    "FF":6,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Khalil Mack",
+    "FF":5,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Ryan Anderson",
+    "FF":5,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"K'Waun Williams",
+    "FF":4,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Terrell Suggs",
+    "FF":4,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Logan Ryan",
+    "FF":4,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Yannick Ngakoue",
+    "FF":4,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Whitney Mercilus",
+    "FF":4,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Matt Judon",
+    "FF":4,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Malcolm Jenkins",
+    "FF":4,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Bud Dupree",
+    "FF":4,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Maxx Crosby",
+    "FF":4,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jadeveon Clowney",
+    "FF":4,
+    "FR":2,
+    "FR TD":1
+  },
+  {
+    "Player":"Devin White",
+    "FF":3,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"Fred Warner",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Kyle Van Noy",
+    "FF":3,
+    "FR":2,
+    "FR TD":1
+  },
+  {
+    "Player":"Harrison Smith",
+    "FF":3,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Sheldon Richardson",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jordan Poyer",
+    "FF":3,
+    "FR":3,
+    "FR TD":0
+  },
+  {
+    "Player":"Jabrill Peppers",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Benson Mayowa",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Danielle Hunter",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Cole Holcomb",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Marcell Harris",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Rasheem Green",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Jarrad Davis",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Lavonte David",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Marcus Davenport",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Fletcher Cox",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jamie Collins",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Justin Coleman",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Frank Clark",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"De'Vondre Campbell",
+    "FF":3,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Vernon Butler",
+    "FF":3,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Preston Brown",
+    "FF":3,
+    "FR":3,
+    "FR TD":0
+  },
+  {
+    "Player":"Xavier Woods",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Brandon Wilson",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tre'Davious White",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Trae Waynes",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Montez Sweat",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tye Smith",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Keith Smith",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jaylon Smith",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Buster Skrine",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Joe Schobert",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Brennan Scarlett",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Orlando Scandrick",
+    "FF":2,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"Darnell Savage",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Nickell Robey-Coleman",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Troy Reeder",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jalen Ramsey",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Robert Quinn",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jason Pierre-Paul",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Charles Omenihu",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Bobby Okereke",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"George Odum",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Trent Murphy",
+    "FF":2,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Rodney McLeod",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Devin McCourty",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Clay Matthews",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Cory Littleton",
+    "FF":2,
+    "FR":3,
+    "FR TD":0
+  },
+  {
+    "Player":"Darius Leonard",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"DeMarcus Lawrence",
+    "FF":2,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Eric Kendricks",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jonathan Jones",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"A.J. Johnson",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Jordan Jenkins",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Grady Jarrett",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Micah Hyde",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Marlon Humphrey",
+    "FF":2,
+    "FR":3,
+    "FR TD":2
+  },
+  {
+    "Player":"Mike Hughes",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Justin Houston",
+    "FF":2,
+    "FR":3,
+    "FR TD":0
+  },
+  {
+    "Player":"Jordan Hicks",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Myles Garrett",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Dante Fowler Jr.",
+    "FF":2,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"Dee Ford",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Trey Flowers",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Minkah Fitzpatrick",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Carlos Dunlap",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Aaron Donald",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Landon Collins",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Adrian Clayborn",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Chuck Clark",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Taco Charlton",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Maurice Canady",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Calais Campbell",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"DeForest Buckner",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Briean Boddy-Calhoun",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Marquise Blair",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Vonn Bell",
+    "FF":2,
+    "FR":4,
+    "FR TD":1
+  },
+  {
+    "Player":"Vic Beasley",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Derek Barnett",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jerome Baker",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Arik Armstead",
+    "FF":2,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Ezekiel Ansah",
+    "FF":2,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Josh Allen",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Ola Adeniyi",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Mario Addison",
+    "FF":2,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jamal Adams",
+    "FF":2,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"Kenny Young",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Wesley Woodyard",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Derek Wolfe",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Deatrich Wise",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Andrew Wingard",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Mack Wilson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jarrod Wilson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Damien Wilson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jordan Willis",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Xavier Williams",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tramon Williams",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Marcus Williams",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Leonard Williams",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jermaine Whitehead",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Stephen Weatherly",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"J.J. Watt",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Armon Watts",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Charvarius Ward",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tracy Walker III",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Joe Walker",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Anthony Walker",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Bobby Wagner",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Dee Virgin",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Nick Vigil",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Olivier Vernon",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Leighton Vander Esch",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tanner Vallejo",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Malik Turner",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Kemoko Turay",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Josh Tupou",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jacob Tuioti-Mariner",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Danny Trevathan",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Dalvin Tomlinson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Joe Thomas",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Earl Thomas",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Marvell Tell",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jahlani Tavai",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Josiah Tauaefa",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jaquiski Tartt",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Chandon Sullivan",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Shamar Stephen",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Za'Darius Smith",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Ryan Smith",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Rod Smith",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Preston Smith",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Malcolm Smith",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"John Simon",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Danny Shelton",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Kendall Sheffield",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Eric Rowe",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Bradley Roby",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"A'Shawn Robinson",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Curtis Riley",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Patrick Ricard",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Xavier Rhodes",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Eric Reid",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Jalen Reeves-Maybin",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Jarran Reed",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"D.J. Reed",
+    "FF":1,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"Brian Poole",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jordan Phillips",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Patrick Peterson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Denzel Perryman",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Will Parks",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Patrick Onwuasor",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Foye Oluokun",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Isaiah Oliver",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Ed Oliver",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Romeo Okwara",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Alex Okafor",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Emmanuel Ogbah",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Chris Odom",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Ifeadi Odenigbo",
+    "FF":1,
+    "FR":2,
+    "FR TD":1
+  },
+  {
+    "Player":"Uchenna Nwosu",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Josh Norman",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Derrick Nnadi",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Anthony Nelson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Nik Needham",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Siran Neal",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Carl Nassib",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Johnny Mundt",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Al-Quadin Muhammad",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Avery Moss",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Damontre Moore",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Ty Montgomery",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Matt Milano",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Sherrick McManis",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Benardrick McKinney",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Bradley McDougald",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Blake Martinez",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jake Martin",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Trey Marshall",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Avonte Maddox",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Julian Love",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"David Long",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Shaq Lawson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Dexter Lawrence",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Harold Landry",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Tyler Lancaster",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Nick Kwiatkoski",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tanoh Kpassagnon",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"A.J. Klein",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Kevin King",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Desmond King",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Ryan Kerrigan",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Devon Kennard",
+    "FF":1,
+    "FR":2,
+    "FR TD":1
+  },
+  {
+    "Player":"Mychal Kendricks",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Lance Kendricks",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Damontae Kazee",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Linval Joseph",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Justin Jones",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"D.J. Jones",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Chris Jones",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Byron Jones",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Taron Johnson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Kareem Jackson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Eddie Jackson",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Kemal Ishmael",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Bruce Irvin",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Sam Hubbard",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Anthony Hitchens",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Mike Hilton",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Cameron Heyward",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Trey Hendrickson",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"D.J. Hayden",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Trent Harris",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Shelby Harris",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Chris Harris",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Javon Hargrave",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Shaun Dion Hamilton",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Joe Haden",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Brandon Graham",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Chauncey Gardner-Johnson",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Tre Flowers",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Rashad Fenton",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Mario Edwards",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Samson Ebukam",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Ross Dwelley",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Quandre Diggs",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Carlton Davis",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Darrell Daniels",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jordan Dangerfield",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Brandon Copeland",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Randall Cobb",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Kenny Clark",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Bradley Chubb",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jurrell Casey",
+    "FF":1,
+    "FR":2,
+    "FR TD":0
+  },
+  {
+    "Player":"Lorenzo Carter",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"T.J. Carrie",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Ibraheim Campbell",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Shilique Calhoun",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Devin Bush",
+    "FF":1,
+    "FR":4,
+    "FR TD":1
+  },
+  {
+    "Player":"Juston Burris",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Ben Burr-Kirven",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Brian Burns",
+    "FF":1,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"James Burgess",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Sean Murphy-Bunting",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Taven Bryan",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tyus Bowser",
+    "FF":1,
+    "FR":1,
+    "FR TD":1
+  },
+  {
+    "Player":"Nick Bosa",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Joey Bosa",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Brandon Bolden",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Chris Board",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jessie Bates",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Daren Bates",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Anthony Barr",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Ben Banogu",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Budda Baker",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Denico Autry",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Blessuan Austin",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Dorance Armstrong",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Eli Apple",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Prince Amukamara",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Tyson Alualu",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Lorenzo Alexander",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Kwon Alexander",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Jaire Alexander",
+    "FF":1,
+    "FR":1,
+    "FR TD":0
+  },
+  {
+    "Player":"Jamal Agnew",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Tyrell Adams",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Andrew Adams",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  },
+  {
+    "Player":"Sam Acho",
+    "FF":1,
+    "FR":0,
+    "FR TD":0
+  }
+]
