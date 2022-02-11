@@ -1,0 +1,226 @@
+[
+  {
+    "Team":"49ers",
+    "Rsh TD":19,
+    "Rec TD":25,
+    "Tot TD":45,
+    "2-PT":1
+  },
+  {
+    "Team":"Bears",
+    "Rsh TD":12,
+    "Rec TD":26,
+    "Tot TD":40,
+    "2-PT":2
+  },
+  {
+    "Team":"Bengals",
+    "Rsh TD":13,
+    "Rec TD":19,
+    "Tot TD":33,
+    "2-PT":0
+  },
+  {
+    "Team":"Bills",
+    "Rsh TD":16,
+    "Rec TD":40,
+    "Tot TD":60,
+    "2-PT":0
+  },
+  {
+    "Team":"Broncos",
+    "Rsh TD":13,
+    "Rec TD":21,
+    "Tot TD":35,
+    "2-PT":2
+  },
+  {
+    "Team":"Browns",
+    "Rsh TD":21,
+    "Rec TD":27,
+    "Tot TD":50,
+    "2-PT":2
+  },
+  {
+    "Team":"Buccaneers",
+    "Rsh TD":16,
+    "Rec TD":42,
+    "Tot TD":59,
+    "2-PT":0
+  },
+  {
+    "Team":"Cardinals",
+    "Rsh TD":22,
+    "Rec TD":27,
+    "Tot TD":49,
+    "2-PT":0
+  },
+  {
+    "Team":"Chargers",
+    "Rsh TD":12,
+    "Rec TD":31,
+    "Tot TD":45,
+    "2-PT":2
+  },
+  {
+    "Team":"Chiefs",
+    "Rsh TD":13,
+    "Rec TD":40,
+    "Tot TD":57,
+    "2-PT":3
+  },
+  {
+    "Team":"Colts",
+    "Rsh TD":20,
+    "Rec TD":24,
+    "Tot TD":50,
+    "2-PT":3
+  },
+  {
+    "Team":"Cowboys",
+    "Rsh TD":14,
+    "Rec TD":25,
+    "Tot TD":42,
+    "2-PT":4
+  },
+  {
+    "Team":"Dolphins",
+    "Rsh TD":15,
+    "Rec TD":24,
+    "Tot TD":42,
+    "2-PT":4
+  },
+  {
+    "Team":"Eagles",
+    "Rsh TD":16,
+    "Rec TD":22,
+    "Tot TD":42,
+    "2-PT":7
+  },
+  {
+    "Team":"Falcons",
+    "Rsh TD":13,
+    "Rec TD":27,
+    "Tot TD":41,
+    "2-PT":1
+  },
+  {
+    "Team":"FootballTeam",
+    "Rsh TD":18,
+    "Rec TD":16,
+    "Tot TD":37,
+    "2-PT":0
+  },
+  {
+    "Team":"Giants",
+    "Rsh TD":13,
+    "Rec TD":12,
+    "Tot TD":27,
+    "2-PT":2
+  },
+  {
+    "Team":"Jaguars",
+    "Rsh TD":9,
+    "Rec TD":25,
+    "Tot TD":37,
+    "2-PT":3
+  },
+  {
+    "Team":"Jets",
+    "Rsh TD":9,
+    "Rec TD":16,
+    "Tot TD":26,
+    "2-PT":1
+  },
+  {
+    "Team":"Lions",
+    "Rsh TD":17,
+    "Rec TD":27,
+    "Tot TD":45,
+    "2-PT":2
+  },
+  {
+    "Team":"Packers",
+    "Rsh TD":16,
+    "Rec TD":48,
+    "Tot TD":66,
+    "2-PT":2
+  },
+  {
+    "Team":"Panthers",
+    "Rsh TD":19,
+    "Rec TD":16,
+    "Tot TD":38,
+    "2-PT":1
+  },
+  {
+    "Team":"Patriots",
+    "Rsh TD":20,
+    "Rec TD":12,
+    "Tot TD":36,
+    "2-PT":1
+  },
+  {
+    "Team":"Raiders",
+    "Rsh TD":20,
+    "Rec TD":28,
+    "Tot TD":48,
+    "2-PT":1
+  },
+  {
+    "Team":"Rams",
+    "Rsh TD":19,
+    "Rec TD":20,
+    "Tot TD":43,
+    "2-PT":1
+  },
+  {
+    "Team":"Ravens",
+    "Rsh TD":24,
+    "Rec TD":27,
+    "Tot TD":55,
+    "2-PT":2
+  },
+  {
+    "Team":"Saints",
+    "Rsh TD":30,
+    "Rec TD":28,
+    "Tot TD":59,
+    "2-PT":0
+  },
+  {
+    "Team":"Seahawks",
+    "Rsh TD":15,
+    "Rec TD":40,
+    "Tot TD":55,
+    "2-PT":1
+  },
+  {
+    "Team":"Steelers",
+    "Rsh TD":12,
+    "Rec TD":35,
+    "Tot TD":50,
+    "2-PT":2
+  },
+  {
+    "Team":"Texans",
+    "Rsh TD":10,
+    "Rec TD":33,
+    "Tot TD":44,
+    "2-PT":1
+  },
+  {
+    "Team":"Titans",
+    "Rsh TD":26,
+    "Rec TD":33,
+    "Tot TD":62,
+    "2-PT":4
+  },
+  {
+    "Team":"Vikings",
+    "Rsh TD":20,
+    "Rec TD":35,
+    "Tot TD":55,
+    "2-PT":8
+  }
+]

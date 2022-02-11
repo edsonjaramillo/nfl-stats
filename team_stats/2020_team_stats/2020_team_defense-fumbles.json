@@ -1,0 +1,258 @@
+[
+  {
+    "Team":"49ers",
+    "FF":13,
+    "FR":8,
+    "FR TD":0,
+    "Rec FUM":7,
+    "Rush FUM":8
+  },
+  {
+    "Team":"Bears",
+    "FF":15,
+    "FR":8,
+    "FR TD":1,
+    "Rec FUM":4,
+    "Rush FUM":6
+  },
+  {
+    "Team":"Bengals",
+    "FF":10,
+    "FR":6,
+    "FR TD":0,
+    "Rec FUM":6,
+    "Rush FUM":4
+  },
+  {
+    "Team":"Bills",
+    "FF":15,
+    "FR":11,
+    "FR TD":1,
+    "Rec FUM":5,
+    "Rush FUM":5
+  },
+  {
+    "Team":"Broncos",
+    "FF":12,
+    "FR":6,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":6
+  },
+  {
+    "Team":"Browns",
+    "FF":17,
+    "FR":10,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":12
+  },
+  {
+    "Team":"Buccaneers",
+    "FF":15,
+    "FR":10,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":5
+  },
+  {
+    "Team":"Cardinals",
+    "FF":15,
+    "FR":10,
+    "FR TD":0,
+    "Rec FUM":1,
+    "Rush FUM":5
+  },
+  {
+    "Team":"Chargers",
+    "FF":6,
+    "FR":7,
+    "FR TD":0,
+    "Rec FUM":2,
+    "Rush FUM":8
+  },
+  {
+    "Team":"Chiefs",
+    "FF":13,
+    "FR":6,
+    "FR TD":0,
+    "Rec FUM":8,
+    "Rush FUM":1
+  },
+  {
+    "Team":"Colts",
+    "FF":14,
+    "FR":10,
+    "FR TD":0,
+    "Rec FUM":6,
+    "Rush FUM":4
+  },
+  {
+    "Team":"Cowboys",
+    "FF":16,
+    "FR":12,
+    "FR TD":2,
+    "Rec FUM":2,
+    "Rush FUM":9
+  },
+  {
+    "Team":"Dolphins",
+    "FF":16,
+    "FR":10,
+    "FR TD":2,
+    "Rec FUM":5,
+    "Rush FUM":5
+  },
+  {
+    "Team":"Eagles",
+    "FF":14,
+    "FR":11,
+    "FR TD":1,
+    "Rec FUM":3,
+    "Rush FUM":5
+  },
+  {
+    "Team":"Falcons",
+    "FF":17,
+    "FR":9,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":8
+  },
+  {
+    "Team":"FootballTeam",
+    "FF":14,
+    "FR":7,
+    "FR TD":1,
+    "Rec FUM":1,
+    "Rush FUM":7
+  },
+  {
+    "Team":"Giants",
+    "FF":14,
+    "FR":11,
+    "FR TD":1,
+    "Rec FUM":8,
+    "Rush FUM":10
+  },
+  {
+    "Team":"Jaguars",
+    "FF":12,
+    "FR":5,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":4
+  },
+  {
+    "Team":"Jets",
+    "FF":17,
+    "FR":9,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":11
+  },
+  {
+    "Team":"Lions",
+    "FF":15,
+    "FR":5,
+    "FR TD":0,
+    "Rec FUM":7,
+    "Rush FUM":5
+  },
+  {
+    "Team":"Packers",
+    "FF":12,
+    "FR":7,
+    "FR TD":1,
+    "Rec FUM":5,
+    "Rush FUM":3
+  },
+  {
+    "Team":"Panthers",
+    "FF":14,
+    "FR":15,
+    "FR TD":3,
+    "Rec FUM":3,
+    "Rush FUM":6
+  },
+  {
+    "Team":"Patriots",
+    "FF":5,
+    "FR":4,
+    "FR TD":1,
+    "Rec FUM":2,
+    "Rush FUM":2
+  },
+  {
+    "Team":"Raiders",
+    "FF":8,
+    "FR":5,
+    "FR TD":0,
+    "Rec FUM":3,
+    "Rush FUM":2
+  },
+  {
+    "Team":"Rams",
+    "FF":12,
+    "FR":8,
+    "FR TD":1,
+    "Rec FUM":1,
+    "Rush FUM":7
+  },
+  {
+    "Team":"Ravens",
+    "FF":25,
+    "FR":12,
+    "FR TD":3,
+    "Rec FUM":11,
+    "Rush FUM":7
+  },
+  {
+    "Team":"Saints",
+    "FF":7,
+    "FR":8,
+    "FR TD":0,
+    "Rec FUM":0,
+    "Rush FUM":7
+  },
+  {
+    "Team":"Seahawks",
+    "FF":14,
+    "FR":8,
+    "FR TD":0,
+    "Rec FUM":2,
+    "Rush FUM":6
+  },
+  {
+    "Team":"Steelers",
+    "FF":13,
+    "FR":9,
+    "FR TD":0,
+    "Rec FUM":4,
+    "Rush FUM":6
+  },
+  {
+    "Team":"Texans",
+    "FF":9,
+    "FR":6,
+    "FR TD":0,
+    "Rec FUM":1,
+    "Rush FUM":4
+  },
+  {
+    "Team":"Titans",
+    "FF":12,
+    "FR":8,
+    "FR TD":1,
+    "Rec FUM":5,
+    "Rush FUM":10
+  },
+  {
+    "Team":"Vikings",
+    "FF":11,
+    "FR":7,
+    "FR TD":0,
+    "Rec FUM":2,
+    "Rush FUM":5
+  }
+]
