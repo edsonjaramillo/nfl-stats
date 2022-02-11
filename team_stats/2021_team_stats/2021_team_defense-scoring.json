@@ -1,0 +1,194 @@
+[
+  {
+    "Team":"49ers",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Bears",
+    "FR TD":1,
+    "SFTY":1,
+    "INT TD":1
+  },
+  {
+    "Team":"Bengals",
+    "FR TD":1,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Bills",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Broncos",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Browns",
+    "FR TD":1,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Buccaneers",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Cardinals",
+    "FR TD":1,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Chargers",
+    "FR TD":1,
+    "SFTY":0,
+    "INT TD":0
+  },
+  {
+    "Team":"Chiefs",
+    "FR TD":2,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Colts",
+    "FR TD":1,
+    "SFTY":1,
+    "INT TD":0
+  },
+  {
+    "Team":"Cowboys",
+    "FR TD":1,
+    "SFTY":0,
+    "INT TD":5
+  },
+  {
+    "Team":"Dolphins",
+    "FR TD":2,
+    "SFTY":0,
+    "INT TD":3
+  },
+  {
+    "Team":"Eagles",
+    "FR TD":3,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Falcons",
+    "FR TD":0,
+    "SFTY":1,
+    "INT TD":2
+  },
+  {
+    "Team":"FootballTeam",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Giants",
+    "FR TD":0,
+    "SFTY":1,
+    "INT TD":1
+  },
+  {
+    "Team":"Jaguars",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":0
+  },
+  {
+    "Team":"Jets",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Lions",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":0
+  },
+  {
+    "Team":"Packers",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Panthers",
+    "FR TD":0,
+    "SFTY":1,
+    "INT TD":0
+  },
+  {
+    "Team":"Patriots",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":3
+  },
+  {
+    "Team":"Raiders",
+    "FR TD":0,
+    "SFTY":1,
+    "INT TD":0
+  },
+  {
+    "Team":"Rams",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":0
+  },
+  {
+    "Team":"Ravens",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":1
+  },
+  {
+    "Team":"Saints",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Seahawks",
+    "FR TD":0,
+    "SFTY":1,
+    "INT TD":0
+  },
+  {
+    "Team":"Steelers",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":0
+  },
+  {
+    "Team":"Texans",
+    "FR TD":0,
+    "SFTY":1,
+    "INT TD":1
+  },
+  {
+    "Team":"Titans",
+    "FR TD":1,
+    "SFTY":0,
+    "INT TD":2
+  },
+  {
+    "Team":"Vikings",
+    "FR TD":0,
+    "SFTY":0,
+    "INT TD":2
+  }
+]
